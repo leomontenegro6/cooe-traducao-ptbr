@@ -1094,7 +1094,7 @@ Neves
 
 ---------------------------------------------
 
-! Mímico
+! Imitador
 
 ---------------------------------------------
 
@@ -2358,7 +2358,7 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Cavaleiro Armado
+! Fidalgo Blindado
 
 ---------------------------------------------
 
@@ -3158,7 +3158,7 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! O Amanhecer Heroico
+! O Amanhecer Heróico
 
 ---------------------------------------------
 
@@ -3312,7 +3312,6 @@ continuar um jogo existente.
 
 ! Um glifo de espada.*
 
-
 ---------------------------------------------
 
 ! Palco do Destino
@@ -3438,8 +3437,7 @@ Aqui em cima!*
 
 ---------------------------------------------
 
-! Salvar o jogo?*
- 
+! Salvar o jogo?* 
 
 ---------------------------------------------
 
@@ -3580,8 +3578,7 @@ Secundário
 
 ---------------------------------------------
 
-! Sair da loja?*
- 
+! Sair da loja?* 
 
 ---------------------------------------------
 
@@ -3869,8 +3866,7 @@ Pra direita!*
 
 ---------------------------------------------
 
-! Abrir a loja agora?*
- 
+! Abrir a loja agora?* 
 
 ---------------------------------------------
 
@@ -3906,8 +3902,7 @@ Pra direita!*
 
 ---------------------------------------------
 
-! Cancelar a procura?*
- 
+! Cancelar a procura?* 
 
 ---------------------------------------------
 
@@ -3919,8 +3914,7 @@ Pra direita!*
 
 ---------------------------------------------
 
-! Cancelar a procura?*
- 
+! Cancelar a procura?* 
 
 ---------------------------------------------
 
@@ -4205,7 +4199,6 @@ coração.
 ---------------------------------------------
 
 ! Realize uma rasteira pressionando*
-
 {F4}
  + 
 {EE}
@@ -4256,8 +4249,7 @@ que o normal.
 
 ---------------------------------------------
 
-! Desafiar este jogador?*
- 
+! Desafiar este jogador?* 
 
 ---------------------------------------------
 
@@ -4321,7 +4313,7 @@ que o normal.
 
 ---------------------------------------------
 
-! Uma tiara decorada com joias.
+! Uma tiara decorada com jóias.
 
 ---------------------------------------------
 
@@ -4446,7 +4438,7 @@ Delícia!
 
 ---------------------------------------------
 
-! Uma joia verde mesmérica.
+! Uma jóia verde mesmérica.
 
 ---------------------------------------------
 
@@ -4544,7 +4536,6 @@ algodão.
 ! Procurando por lojas.*
 Sair: 
 {EE}
-
 
 ---------------------------------------------
 
@@ -4682,7 +4673,6 @@ de cor esverdeada.
 ---------------------------------------------
 
 ! Combine dois glifos com*
-
 {F3}
  +
 {F0}
@@ -4705,7 +4695,7 @@ corações.
 
 ---------------------------------------------
 
-! Uma joia crisoberilo que lembra*
+! Uma jóia crisoberilo que lembra*
 um olho de gato.
 
 ---------------------------------------------
@@ -4770,7 +4760,6 @@ examinar.
 ! Procurando por um oponente.*
 Sair: 
 {EE}
-
 
 ---------------------------------------------
 
@@ -4990,7 +4979,7 @@ sangue.
 ---------------------------------------------
 
 ! O Tom precisa de um colar*
-de joias.
+de jóias.
 
 ---------------------------------------------
 
@@ -5122,7 +5111,7 @@ utilizar.
 
 ---------------------------------------------
 
-! Uma joia vermelha de grande*
+! Uma jóia vermelha de grande*
 valor.
 
 ---------------------------------------------
@@ -5354,7 +5343,6 @@ Oleoso e bastante temperado.
 ! Segure 
 {ED}
  e pressione*
-
 {EB}
  ou 
 {EC}
@@ -5778,6 +5766,7 @@ dar a Tom, meu gato.
 {E30D} AVATAR
 Que Deus guie seus passos, onde quer*
 que você vá.
+
 {E5E4} EVENTO
 
 
@@ -6852,6 +6841,7 @@ Agache-se sempre que possível.*
 {E5E9} EVENTO
 Isto serve para procurar por*
 baús do tesouros no solo.
+
 {E5E4} EVENTO
 
 
@@ -7500,6 +7490,7 @@ Favor aguardar.
 Como eu já disse, preciso de sal*
 para cozinhar qualquer coisa.*
 É só trazer uma [Pedra de Sal].
+
 {E5E9} EVENTO
 Estou contando com você!*
 
@@ -7535,6 +7526,7 @@ utilizado através da Nintendo WFC.
 Meus filhos ainda não foram*
 encontrados. Eu espero que eles*
 estejam a salvo...
+
 {E5E4} EVENTO
 
 
@@ -7547,6 +7539,7 @@ estejam a salvo...
 Traga 3 [Pepitas de Ouro].*
 Vou moldá-las da melhor forma*
 possível para você.
+
 {E5E4} EVENTO
 
 
@@ -7559,6 +7552,7 @@ possível para você.
 Mamãe está em casa, mas minha irmã*
 ainda está perdida. Tomara que ela*
 não esteja se sentindo só...
+
 {E5E4} EVENTO
 
 
@@ -7571,6 +7565,7 @@ não esteja se sentindo só...
 Minha mãe e meu irmão mais velho*
 ainda não voltaram pra casa...*
 Tomara que eles estejam bem...
+
 {E5E4} EVENTO
 
 
@@ -7582,6 +7577,7 @@ Tomara que eles estejam bem...
 {E312} AVATAR
 Volte com algum [Peixe Cru] e você*
 terá uma refeição exótica!
+
 {E5E4} EVENTO
 
 
@@ -7593,6 +7589,7 @@ terá uma refeição exótica!
 {E300} AVATAR
 Este glifo ressoa com algo mais...*
 Seriam outros glifos?
+
 {E5E4} EVENTO
 
 
@@ -7605,6 +7602,7 @@ Seriam outros glifos?
 Este glifo ressoa com o anterior*
 e ainda com algo mais...*
 Deve haver um terceiro.
+
 {E5E4} EVENTO
 
 
@@ -7636,6 +7634,7 @@ chorona.
 Você matou todos os 30 [Corvos]?*
 Ainda não? É mesmo? Bem...*
 Não precisa ter pressa, acho.
+
 {E5E4} EVENTO
 
 
@@ -7647,8 +7646,10 @@ Não precisa ter pressa, acho.
 {E31C} AVATAR
 Ah... Anna está só...*
 exagerando... Eu preciso...
+
 {E5E9} EVENTO
 descansar... um pouco, só isso...
+
 {E5E4} EVENTO
 
 
@@ -7661,6 +7662,7 @@ descansar... um pouco, só isso...
 Se você encontrar [Lápis-Lazúli],*
 traga-o aqui. Vou fazer algo bonito*
 para você.
+
 {E5E4} EVENTO
 
 
@@ -7673,6 +7675,7 @@ para você.
 Minha filha retornou para casa a*
 salvo, mas meu filho ainda não...*
 Espero que ele esteja bem.
+
 {E5E4} EVENTO
 
 
@@ -7685,6 +7688,7 @@ Espero que ele esteja bem.
 Meu nome é Tinta, sabia?*
 Eles me chamam assim por causa da*
 minha cor, mas não sei por quê...
+
 {E5E4} EVENTO
 
 
@@ -7696,9 +7700,11 @@ minha cor, mas não sei por quê...
 {E316} AVATAR
 Por favor, moça...*
 Eu preciso...
+
 {E5E9} EVENTO
 ... Encontrar Tom...*
 Talvez numa árvore alta...
+
 {E5E4} EVENTO
 
 
@@ -7711,6 +7717,7 @@ Talvez numa árvore alta...
 Por favor me arrume uma bisteca de*
 [Carne Saborosa]. Pratos saborosos*
 precisam de bons ingredientes!
+
 {E5E4} EVENTO
 
 
@@ -7722,6 +7729,7 @@ precisam de bons ingredientes!
 {E314} AVATAR
 Use o [Fonógrafo] quando a [Banshee]*
 gritar, e traga-me o disco gravado.
+
 {E5E4} EVENTO
 
 
@@ -7734,6 +7742,7 @@ gritar, e traga-me o disco gravado.
 É bom ver a cidade se reerguendo*
 por conta própria.*
 Isso me deixa muito feliz.
+
 {E5E4} EVENTO
 
 
@@ -7746,6 +7755,7 @@ Isso me deixa muito feliz.
 Me perdoe, mas minha canção terá de*
 esperar enquanto você não trouxer a*
 [Crina de Cavalo].
+
 {E5E4} EVENTO
 
 
@@ -7758,6 +7768,7 @@ esperar enquanto você não trouxer a*
 Meu filho voltou para casa a salvo,*
 mas minha filha não...*
 Deus, por favor, proteja-a...
+
 {E5E4} EVENTO
 
 
@@ -7770,6 +7781,7 @@ Deus, por favor, proteja-a...
 Preciso de [Camomila] e [Arruda],*
 mas tem que ser AS DUAS! Traga-as*
 pra mim e o antídoto será seu.
+
 {E5E4} EVENTO
 
 
@@ -7793,9 +7805,11 @@ vila.
 {E30A} AVATAR
 Não se precipite quando um inimigo*
 lançar-se contra você.
+
 {E5E9} EVENTO
 Apenas salte ou esquive-se dele*
 para não tomar danos.
+
 {E5E4} EVENTO
 
 
@@ -7810,10 +7824,12 @@ Albus está aqui...*
 {E5E9} EVENTO
 Eu preciso terminar isso agora,*
 com minhas próprias mãos...
+
 {E5E9} EVENTO
 
 {E301} AVATAR
 Custe o que custar.
+
 {E5E4} EVENTO
 
 
@@ -7825,10 +7841,12 @@ Custe o que custar.
 {E315} AVATAR
 Nossa!*
 Uma [Coruja] de verdade!
+
 {E5E9} EVENTO
 Obrigado, moça!*
 Toma, é um presente pra você.*
 Valeu!
+
 {E5E4} EVENTO
 
 
@@ -7840,9 +7858,11 @@ Valeu!
 {E31C} AVATAR
 Por que o meu corpo não se mexe?*
 Ugh... Grrrr...
+
 {E5E9} EVENTO
 Eu não vou perder para um mísero*
 espírito maligno!
+
 {E5E4} EVENTO
 
 
@@ -7889,11 +7909,13 @@ então, para se tornar um curandeiro.
 Se Albus conseguiu o controle de*
 [Dominus], quem mais poderá fazer o*
 mesmo?
+
 {E5E9} EVENTO
 
 {E30B} AVATAR
 Ó Senhor, o que aconteceu com meu*
 pupilo?
+
 {E5E4} EVENTO
 
 
@@ -7917,6 +7939,7 @@ Acesse support.nintendo.com para ajuda.
 
 {E311} AVATAR
 Três [Minérios de Ferro].
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -7932,6 +7955,7 @@ Perdão?*
 Sua armadura está gasta.*
 Traga 3 [Minérios de Ferro].*
 Então conversamos.
+
 {E5E4} EVENTO
 
 
@@ -7942,6 +7966,7 @@ Então conversamos.
 
 {E306} AVATAR
 Como ele pôde!?
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -7950,11 +7975,13 @@ Como ele pôde!?
 
 {E306} AVATAR
 Ordens podem ser ordens, Barlowe...
+
 {E5E9} EVENTO
 
 {E307} AVATAR
 Mas você vai me pagar por quebrar*
 sua promessa!
+
 {E5E4} EVENTO
 
 
@@ -7966,9 +7993,11 @@ sua promessa!
 {E30D} AVATAR
 Entre os abduzidos estão até*
 crianças...
+
 {E5E9} EVENTO
 ... Só o que me resta agora é*
 rezar pela segurança delas...
+
 {E5E4} EVENTO
 
 
@@ -7981,9 +8010,11 @@ rezar pela segurança delas...
 Você é nova por aqui, né?*
 Não se esqueça de dar um oi*
 aos meus amigos felinos.
+
 {E5E9} EVENTO
 Nós sabemos... segredos.*
 Segredos importantes.
+
 {E5E4} EVENTO
 
 
@@ -7995,9 +8026,11 @@ Segredos importantes.
 {E30F} AVATAR
 Encontrou a erva de [Sálvia]?*
 Quando você encontrar, traga-a aqui!
+
 {E5E9} EVENTO
 Só depois disso, vou retribuir*
 o meu favor! Ha ha!
+
 {E5E4} EVENTO
 
 
@@ -8016,12 +8049,15 @@ que ele compõe.
 {E315} AVATAR
 Ora vamos, moça, me encontre desta*
 vez, está bem?
+
 {E5E9} EVENTO
 Igual da outra vez:*
 eu vou contar até 15.*
 Entendeu?
+
 {E5E9} EVENTO
 Lá vou eu!
+
 {E5E4} EVENTO
 
 
@@ -8040,10 +8076,12 @@ tente novamente.
 {E31C} AVATAR
 Num corredor tão escuro quanto eu,*
 existe um prêmio, sabia?
+
 {E5E9} EVENTO
 Esquive-se dos perigos e, ao chegar*
 até o prêmio, terá a passagem*
 de volta livre.
+
 {E5E4} EVENTO
 
 
@@ -8055,10 +8093,12 @@ de volta livre.
 {E313} AVATAR
 Eu ainda preciso de uma foto do*
 [Chupa-Cabra].
+
 {E5E9} EVENTO
 Então encontre-o e tire uma foto*
 antes que ele fuja.*
 Ok?
+
 {E5E4} EVENTO
 
 
@@ -8071,9 +8111,11 @@ Ok?
 Se você for descoberta na prisão,*
 uma máquina assustadora virá te*
 perseguir.
+
 {E5E9} EVENTO
 ... Mas não quer dizer que não*
 valha a pena lutar contra ela.
+
 {E5E4} EVENTO
 
 
@@ -8085,9 +8127,11 @@ valha a pena lutar contra ela.
 {E30D} AVATAR
 Eu sou Nikolai, o padre que ora por*
 este vilarejo.
+
 {E5E9} EVENTO
 Por favor, você precisa resgatar os*
 aldeões de todo o mal!
+
 {E5E4} EVENTO
 
 
@@ -8198,11 +8242,11 @@ aldeões de todo o mal!
 
 {E319} AVATAR
 
-{E710} Dracula
+{E710} Drácula
 
 {E31A} AVATAR
 
-{E710} Dracula
+{E710} Drácula
 
 {E31B} AVATAR
 
@@ -8229,10 +8273,12 @@ faleceram.
 {E30D} AVATAR
 Deus já falou com você?*
 Ele falou comigo uma vez...
+
 {E5E9} EVENTO
 Ele disse para eu construir esta vila*
 aqui, onde antes já foi um terreno*
 baldio.
+
 {E5E4} EVENTO
 
 
@@ -8252,9 +8298,11 @@ do outro mundo.
 Quem sabe a quais horrores os outros*
 estão sendo submetidos nas mãos*
 dele...
+
 {E5E9} EVENTO
 Ó Senhor,*
 eu lhe peço, traga-nos a libertação.
+
 {E5E4} EVENTO
 
 
@@ -8267,6 +8315,7 @@ eu lhe peço, traga-nos a libertação.
 Se você puder me trazer um [Diamante]*
 e um [Ônix], vou fazer algo que*
 vai tocar seu coração.
+
 {E5E9} EVENTO
 Pode ter certeza!*
 
@@ -8356,10 +8405,12 @@ Manual de Instruções para obter ajuda.
 {E316} AVATAR
 Nossa! Obrigada! Você vai ficar*
 melhor agora, não é, Tom?
+
 {E5E9} EVENTO
 Olha! Isso é um tesouro que eu*
 encontrei há muito tempo atrás.*
 Pode ficar com ele, moça!
+
 {E5E4} EVENTO
 
 
@@ -8371,6 +8422,7 @@ Pode ficar com ele, moça!
 {E300} AVATAR
 Está ressoando com os outros dois!*
 Deve ser o último dos três glifos.
+
 {E5E9} EVENTO
 Agora me questiono:*
 Como usar estes três glifos?*
@@ -8386,9 +8438,11 @@ Como usar estes três glifos?*
 {E310} AVATAR
 Preciso de uma [Safira], um [Rubi] e*
 uma [Esmeralda].
+
 {E5E9} EVENTO
 Farei algo que vai fazer você*
 sorrir quando menos perceber.
+
 {E5E4} EVENTO
 
 
@@ -8401,20 +8455,23 @@ sorrir quando menos perceber.
 Se você puder me trazer uma*
 [Alexandrita], eu vou lhe mostrar o*
 maior trabalho que já fiz.
+
 {E5E9} EVENTO
 E ainda diziam que eu não tinha*
 o dom para isso!
+
 {E5E4} EVENTO
 
 
 ---------------------------------------------
 
 ! 
-{E710} Dracula
+{E710} Drácula
 
 {E31B} AVATAR
 Mas este poder é...*
 NÃO! Não pode ser o meu-
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -8425,12 +8482,14 @@ NÃO! Não pode ser o meu-
 Me perdoe, Albus...*
 Eu não consegui... manter a minha*
 promessa...
+
 {E5E4} EVENTO
 
-{E710} Dracula
+{E710} Drácula
 
 {E31B} AVATAR
 GááááÁÁÁRGH!!!
+
 {E5E4} EVENTO
 
 
@@ -8464,12 +8523,15 @@ carpinteiro para construir casas.
 
 {E315} AVATAR
 Você também tem medo do escuro, moça?
+
 {E5E9} EVENTO
 Eu vou me esconder mais uma vez,*
 então agora tente me encontrar pra*
 valer, ok?
+
 {E5E9} EVENTO
 Lá vou eu!
+
 {E5E4} EVENTO
 
 
@@ -8487,9 +8549,11 @@ o código na Lista de Amigos.
 {E314} AVATAR
 Muito obrigado! Agora vou gravar a*
 peça.
+
 {E5E9} EVENTO
 O disco estará à venda na loja.*
 Você pode ser a primeira a comprar!
+
 {E5E4} EVENTO
 
 
@@ -8501,10 +8565,12 @@ Você pode ser a primeira a comprar!
 {E31C} AVATAR
 Beleza! Esta é a melhor coleira que*
 eu já vi na vida.
+
 {E5E9} EVENTO
 Em toda minha vida eu nunca vi algo*
 tão bonito.*
 ... Mas é meio apertada.
+
 {E5E4} EVENTO
 
 
@@ -8515,10 +8581,12 @@ tão bonito.*
 
 {E310} AVATAR
 Rá! Nenhum coração pode resistir ao*
-poder combinado destas duas joias!
+poder combinado destas duas jóias!
+
 {E5E9} EVENTO
 Vou mandar isto para a loja assim*
 que estiver pronto.
+
 {E5E4} EVENTO
 
 
@@ -8530,10 +8598,12 @@ que estiver pronto.
 {E316} AVATAR
 Sabe, de vez em quando tenho*
 sonhos estranhos.
+
 {E5E9} EVENTO
 Um sonho onde um homem com um chicote*
 está lutando contra alguma coisa.*
 Ele luta contra algo assustador.
+
 {E5E4} EVENTO
 
 
@@ -8559,6 +8629,7 @@ e outras técnicas de magia.
 {E30A} AVATAR
 Faça-o agora.*
 Coloque glifos em seus braços.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -8567,7 +8638,7 @@ Coloque glifos em seus braços.
 &Abra o menu com [START],*
 
 {E5E9} EVENTO
-selecione [Glifo] para colocar glifos*
+selecione [Glifos] para colocar glifos*
 em [
 {F0}
 ] e [
@@ -8595,9 +8666,11 @@ finalmente encontrar sua alma gêmea.
 Ah, é você. Eu a estava esperando.*
 Todos adoraram a matéria do*
 Chupa-Cabra.
+
 {E5E9} EVENTO
 Agora precisamos superá-la!*
 Consiga uma foto do [Demônio de Jérsei]!
+
 {E5E4} EVENTO
 
 
@@ -8608,12 +8681,15 @@ Consiga uma foto do [Demônio de Jérsei]!
 
 {E302} AVATAR
 ... Agora eu perdi tudo...
+
 {E5E9} EVENTO
 O meu passado, as minhas emoções,*
 o meu irmão e o meu propósito...
+
 {E5E9} EVENTO
 Me sinto vazia.*
 ... Já não me resta mais nada.
+
 {E5E4} EVENTO
 
 
@@ -8626,9 +8702,11 @@ Me sinto vazia.*
 Deus trouxe todos nós aqui, e nos*
 ofereceu este lugar para erguermos*
 nossas casas.
+
 {E5E9} EVENTO
 Ele sempre nos providenciou, até mesmo*
 nos momentos mais difíceis.
+
 {E5E4} EVENTO
 
 
@@ -8648,6 +8726,7 @@ e não hesita em passar informações.
 ... Por quê?*
 Estou desmaiando...*
 Está tão escuro...
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -8656,11 +8735,14 @@ Está tão escuro...
 
 {E30A} AVATAR
 Alegre-se, Shanoa.
+
 {E5E9} EVENTO
 Com o seu sacrifício,
+
 {E30C} AVATAR
 todos os desejos da humanidade se*
 tornarão realidade...
+
 {E5E4} EVENTO
 
 
@@ -8679,12 +8761,15 @@ excelentes receitas com os outros.
 {E30A} AVATAR
 Você sempre foi uma guerreira*
 talentosa...
+
 {E5E9} EVENTO
 Seu dom latente ainda não perdeu o*
 brilho.
+
 {E5E9} EVENTO
 Eu acredito em você. Você ainda*
 vai cumprir o seu papel.
+
 {E5E4} EVENTO
 
 
@@ -8696,9 +8781,11 @@ vai cumprir o seu papel.
 {E30D} AVATAR
 Ouvi falar que meus antepassados eram*
 pessoas que combateram o mal.
+
 {E5E9} EVENTO
 Talvez seja por isso que eu*
 escolhido o celibato.
+
 {E5E4} EVENTO
 
 
@@ -8735,10 +8822,12 @@ Prosseguir com a conexão?
 {E30A} AVATAR
 Com glifos nos dois braços, alterne-os*
 para lançar uma série de ataques.
+
 {E5E9} EVENTO
 Mas saiba também que o tempo*
 varia de glifo para glifo.*
 Ao praticar, você entenderá.
+
 {E5E4} EVENTO
 
 
@@ -8754,10 +8843,12 @@ Acesse support.nintendo.com para ajuda.
 ! Sem o mundo externo tomar ciência,*
 o Bem aniquilou as forças malignas de*
 Drácula mais uma vez.
+
 {E5E9} EVENTO
 Enquanto isso, todos os registros*
 sobre Eclésia desapareceram através*
 do tempo...
+
 {E5E4} EVENTO
 
 
@@ -8770,10 +8861,12 @@ do tempo...
 Alguns de nós ainda não retornaram...*
 A menos que eles já tenham ido*
 ao Céu...
+
 {E5E9} EVENTO
 Não. Eu preciso acreditar*
 na proteção divina.*
 E também que você os protegerá...
+
 {E5E4} EVENTO
 
 
@@ -8793,14 +8886,17 @@ Acesse support.nintendo.com para ajuda.
 {E30A} AVATAR
 Das profundezas, eu evoco o seu*
 inimigo!
+
 {E5E9} EVENTO
 
 {E30B} AVATAR
 Use tudo o que aprendeu para*
 permanecer de pé.
+
 {E5E9} EVENTO
 Torne-se nossa maior guerreira*
 mais uma vez!
+
 {E5E4} EVENTO
 
 
@@ -8813,9 +8909,11 @@ mais uma vez!
 Parece que lendas sobre Drácula já*
 circulavam por aqui muito antes da*
 minha existência.
+
 {E5E9} EVENTO
 Ainda assim, eu nunca imaginei que*
 essas lendas fossem ganhar vida.
+
 {E5E4} EVENTO
 
 
@@ -8826,13 +8924,16 @@ essas lendas fossem ganhar vida.
 
 {E300} AVATAR
 ... Funcionou.
+
 {E5E9} EVENTO
 O poder lá dentro é incrível...*
 será [Drácula]?
+
 {E5E9} EVENTO
 Chegou a hora, Albus.*
 Para terminar isto, eu preciso*
 adentrar o próprio Inferno.
+
 {E5E4} EVENTO
 
 
@@ -8845,12 +8946,14 @@ adentrar o próprio Inferno.
 Ufa!*
 Obrigado, moça!*
 O meu nome é Serge.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Devo acompanhá-lo até sua casa?
+
 {E5E4} EVENTO
 
 {E70B} Serge
@@ -8858,6 +8961,7 @@ Devo acompanhá-lo até sua casa?
 {E315} AVATAR
 Nah, eu não sou mais um garotinho.*
 Já posso voltar pra casa sozinho.
+
 {E5E4} EVENTO
 
 
@@ -8870,10 +8974,12 @@ Já posso voltar pra casa sozinho.
 Vou repetir: Me traga um pouco de*
 [Sálvia] e [Raíz de Mandrágora].*
 Eu sei que vai encontrá-las.
+
 {E5E9} EVENTO
 Com essas plantas, você não vai mais*
 precisar se curar de pouquinho em*
 pouquinho.
+
 {E5E4} EVENTO
 
 
@@ -8893,12 +8999,15 @@ você da lista de amigos dele.
 Ah!*
 Isso é [Crisoberilo]?*
 Obrigada!
+
 {E5E9} EVENTO
 Mas Tom não tem como carregar uma*
 pedra...
+
 {E5E9} EVENTO
 Se talvez ela fosse como um*
 acessório, então Tom poderia usá-la.
+
 {E5E4} EVENTO
 
 
@@ -8908,14 +9017,17 @@ acessório, então Tom poderia usá-la.
 {E706} Laura
 
 {E310} AVATAR
-Você achou uma boa joia.
+Você achou uma boa jóia.
+
 {E5E9} EVENTO
 Permita-me trabalhar nela e então*
 enviar para a loja.
+
 {E5E9} EVENTO
 Tente usá-la mais tarde!*
 Aposto que você vai gostar do*
 resultado.
+
 {E5E4} EVENTO
 
 
@@ -8944,9 +9056,11 @@ dade de Wygol.
 {E315} AVATAR
 Ei, você conseguiu!*
 Você me encontrou mesmo.
+
 {E5E9} EVENTO
 Aqui está o prêmio.*
 Aceite como agradecimento!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -8956,6 +9070,7 @@ Aceite como agradecimento!
 {E315} AVATAR
 Certo, agora vou sair daqui.*
 Venha me visitar de novo algum dia!
+
 {E5E4} EVENTO
 
 
@@ -8968,9 +9083,11 @@ Venha me visitar de novo algum dia!
 Maravilhoso! Bom, eu vou precisar do*
 [Fonógrafo] de volta para gravar a*
 peça.
+
 {E5E9} EVENTO
 Por favor, quando o disco*
 chegar à loja, ouça-o.
+
 {E5E4} EVENTO
 
 
@@ -8998,6 +9115,7 @@ do jogo não conferem.
 {E30A} AVATAR
 O que está esperando?*
 Pegue este glifo.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -9007,9 +9125,11 @@ Pegue este glifo.
 pressionando [
 {F3}
 ].
+
 {E5E9} EVENTO
 Ao terminar a absorção, você obterá*
 o glifo e ganhará 10 corações.
+
 {E5E4} EVENTO
 
 {E8}
@@ -9041,16 +9161,19 @@ de amigo.
 Tão habilidosa! Agora você deve*
 encarar o teste final:*
 O perigo do verdadeiro combate.
+
 {E5E9} EVENTO
 Fortaleça-se.*
 Quando estiver preparada, entre na*
 próxima sala.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Como quiser, senhor.
+
 {E5E4} EVENTO
 
 
@@ -9071,12 +9194,15 @@ a um abismo enquanto gritam por socorro.
 Você é incrível, moça!*
 Me encontrou, mesmo sem poder*
 enxergar!
+
 {E5E9} EVENTO
 Já que conseguiu, então acho que*
 você é muito corajosa!*
 Valeu!
+
 {E5E9} EVENTO
 Aqui, pegue isto.
+
 {E5E4} EVENTO
 
 
@@ -9097,10 +9223,12 @@ parar no outro mundo.
 Com 5 fabulosos [Carretéis de Caxemira],*
 com certeza poderei fazer o maior*
 [Vestido de Festa]!
+
 {E5E9} EVENTO
 O que estou falando? Como sou boba!*
 Não tem como eu fazer um vestido*
 tão bom assim!
+
 {E5E4} EVENTO
 
 
@@ -9112,12 +9240,15 @@ tão bom assim!
 {E315} AVATAR
 Sabe, fiquei dependendo muito*
 de você ultimamente...
+
 {E5E9} EVENTO
 Mas agora eu entendi.*
 Eu mesmo tenho que ficar forte*
 e não depender mais de ninguém.
+
 {E5E9} EVENTO
 Vou me esforçar para isso.
+
 {E5E4} EVENTO
 
 
@@ -9139,6 +9270,7 @@ morreu há muito tempo.
 {E30A} AVATAR
 Não hesite.*
 Ataque-me com seu glifo.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -9150,9 +9282,11 @@ Ataque-me com seu glifo.
 {EF}
 ] para*
 atacar com seus glifos equipados.
+
 {E5E9} EVENTO
 Ataques com glifos consomem PM, os*
 quais regeneram conforme o tempo.
+
 {E5E4} EVENTO
 
 {E8}
@@ -9161,12 +9295,13 @@ quais regeneram conforme o tempo.
 ---------------------------------------------
 
 ! 
-{E710} Dracula
+{E710} Drácula
 
 {E31A} AVATAR
 Quanta insensatez.*
 Jamais derrotarás a mim com*
 truques tão débeis!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -9174,11 +9309,13 @@ truques tão débeis!
 {E300} AVATAR
 O meu poder por si só*
 pode não ser suficiente,
+
 {E5E9} EVENTO
 
 {E301} AVATAR
 mas com o poder de [Dominus], vou*
 matá-lo, seu demônio!
+
 {E5E4} EVENTO
 
 
@@ -9197,7 +9334,6 @@ combinar os poderes de dois glifos nos*
 braços esquerdo e direito de Shanoa*
 para criar um terceiro glifo, ainda*
 mais poderoso.*
-
 {F3}
 +
 {F0}
@@ -9213,14 +9349,17 @@ Esta técnica consome corações.
 
 {E30D} AVATAR
 Ele levou todos.
+
 {E5E9} EVENTO
 Até mesmo alguns visitantes de fora da*
 vila que estavam por aqui na hora da*
 ocorrência.
+
 {E5E9} EVENTO
 Será que foi mero azar deles?*
 Ou será que há algum plano*
 por trás disso?
+
 {E5E4} EVENTO
 
 
@@ -9259,30 +9398,29 @@ são vistos.
 
 {F0}
 : Tiro Comum*
-
 {EF}
 : Tiro Óptico*
-
 {ED}
 : Ignis Quádruplo
+
 {E5E9} EVENTO
 Toque na Tela: Teleporte*
 (Não é possível teleportar para*
 dentro de paredes)
+
 {E5E9} EVENTO
 
 {EC}
 : Cristal de Torpor*
-
 {F3}
  + 
 {F0}
 : Tiro Máximo*
-
 {F3}
  + 
 {EB}
 : Pulo Alto
+
 {E5E4} EVENTO
 
 {E8}
@@ -9296,12 +9434,15 @@ dentro de paredes)
 {E300} AVATAR
 Existem energias mágicas percorrendo*
 esta sala...
+
 {E5E9} EVENTO
 Se essa é uma estátua de Cérbero,*
 então esta deve ser a entrada para o*
 Inferno.
+
 {E5E9} EVENTO
 Preciso descobrir como abrí-la...
+
 {E5E4} EVENTO
 
 
@@ -9318,13 +9459,16 @@ o Abominável [Homem
 das
 {AC}
 Neves].
+
 {E5E9} EVENTO
 Me contaram que só as suas fotos*
 de antes fizeram dobrar a nossa*
 circulação!
+
 {E5E9} EVENTO
 Continue assim!*
 Estamos contando com você!
+
 {E5E4} EVENTO
 
 
@@ -9355,12 +9499,15 @@ lágrimas choradas em nome dos perdidos.
 Você tem que procurar o*
 [Demônio de Jérsei]. Ele tem cabeça*
 de cavalo e corpo de morcego.
+
 {E5E9} EVENTO
 Se você ver um deles, tire uma foto*
 antes que fuja, certo?
+
 {E5E9} EVENTO
 Não acha interessante essas*
 coisas sobre fotografia?
+
 {E5E4} EVENTO
 
 
@@ -9373,12 +9520,14 @@ coisas sobre fotografia?
 Você conseguiu encontrar a igreja*
 no [Pico Abandonado]?*
 Como está saindo o desenho?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Eu ainda não o comecei...
+
 {E5E4} EVENTO
 
 {E70F} Daniela
@@ -9387,6 +9536,7 @@ Eu ainda não o comecei...
 Então veja se consegue fazer, promete?*
 Promessas fazem sair o melhor de*
 dentro das pessoas.
+
 {E5E4} EVENTO
 
 
@@ -9415,12 +9565,15 @@ são indicados como A, B e C.
 Muito obrigado!*
 Você resgatou todas as almas*
 do vilarejo.
+
 {E5E9} EVENTO
 Mas... suas aflições ainda pesam*
 bastante sobre seus corações...
+
 {E5E9} EVENTO
 Você poderia falar com eles e ajudar*
 a elevar seus espíritos?
+
 {E5E4} EVENTO
 
 
@@ -9432,13 +9585,16 @@ a elevar seus espíritos?
 {E318} AVATAR
 Não é fácil para uma mulher criar*
 dois filhos sozinha.
+
 {E5E9} EVENTO
 Mas quando eles sorriem, tudo de*
 ruim desaparece.
+
 {E5E9} EVENTO
 Não há nada melhor para mim agora,*
 além de viver em função dos meus*
 filhos.
+
 {E5E4} EVENTO
 
 
@@ -9450,13 +9606,16 @@ filhos.
 {E30F} AVATAR
 Sim, essa é uma [Sálvia], sem dúvida.*
 Então por enquanto, obrigado.
+
 {E5E9} EVENTO
 Eu vou fazer o seu precioso*
 "medicamento". Vou até mesmo pedir*
 para o Jacob colocá-lo à venda.
+
 {E5E9} EVENTO
 Mas NEM OUSE pedir de graça!*
 Quem você pensa que eu sou!?
+
 {E5E4} EVENTO
 
 
@@ -9467,16 +9626,20 @@ Quem você pensa que eu sou!?
 
 {E317} AVATAR
 Aiai... Veja só como eu sou boba.
+
 {E5E9} EVENTO
 Não consigo fazer nada sem que*
 alguém me traga os materiais.
+
 {E5E9} EVENTO
 Mesmo assim, eu sei como fazer um*
 vestido...
+
 {E5E9} EVENTO
 Mas se ao menos eu conseguisse*
 arranjar meus materiais por conta*
 própria...
+
 {E5E4} EVENTO
 
 
@@ -9489,11 +9652,14 @@ própria...
 Aqui estão, vermelho, azul e verde.*
 As três cores primárias da luz,*
 sabia?
+
 {E5E9} EVENTO
 Você vai adorar como estas cores*
 dançam todas juntas.
+
 {E5E9} EVENTO
 Veja na loja quando eu terminar.
+
 {E5E4} EVENTO
 
 
@@ -9505,12 +9671,14 @@ Veja na loja quando eu terminar.
 {E311} AVATAR
 Você deve estar passando por tempos*
 difíceis.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Eu tenho uma missão a cumprir.
+
 {E5E4} EVENTO
 
 {E707} Eugen
@@ -9519,6 +9687,7 @@ Eu tenho uma missão a cumprir.
 Já que é assim, então não é da minha*
 conta. Mas saiba de uma coisa:*
 Traga-me 3 [Pepitas de Prata].
+
 {E5E9} EVENTO
 Eu vou lhe fazer algo bom.*
 
@@ -9542,13 +9711,16 @@ refugiaram em seus cômodos.
 {E312} AVATAR
 Bem, você fez de mim um mestre cuca.*
 Não posso pedir mais nada de você.
+
 {E5E9} EVENTO
 ... Mas por que você ainda é minha*
 única freguesa? Será que os meus*
 pratos ficaram enfeitados demais?
+
 {E5E9} EVENTO
 Deve ser isso. Devo ter aumentado*
 muito o nível...
+
 {E5E4} EVENTO
 
 
@@ -9599,16 +9771,19 @@ espírito quem é que manda aqui!*
 {E70D} Monica
 
 {E317} AVATAR
-Ah! M-mas o que foi que eu fiz para*
+Ah! M-Mas o que foi que eu fiz para*
 merecer ser salva por um anjo tão*
 belo?
+
 {E5E9} EVENTO
-S-sou Monica. Sou... uma*
+S-Sou Monica. Sou... uma*
 costureira na vila.
+
 {E5E9} EVENTO
 Ahn... por favor, deixe-me*
 recompensá-la! Se você estiver na*
 vila, venha me visitar!
+
 {E5E4} EVENTO
 
 
@@ -9621,12 +9796,15 @@ vila, venha me visitar!
 Eu sou ruim em cabra cega. Quando*
 fica tudo escuro, fico com medo e*
 não consigo me mexer.
+
 {E5E9} EVENTO
 Mas você não tem medo, né?*
 Pode me mostrar como se faz?
+
 {E5E9} EVENTO
 Coloque uma venda e me encontre antes*
 de eu contar até 30!
+
 {E5E4} EVENTO
 
 
@@ -9638,8 +9816,10 @@ de eu contar até 30!
 {E30A} AVATAR
 Estando armada, você pode usar os*
 glifos contra os seus inimigos.
+
 {E5E9} EVENTO
 Imagine que eu seja um deles e ataque!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -9651,9 +9831,11 @@ Imagine que eu seja um deles e ataque!
 {EF}
 ] para*
 atacar com seus glifos.
+
 {E5E9} EVENTO
 Ataques com glifos consomem PM, os*
 quais regeneram conforme o tempo.
+
 {E5E4} EVENTO
 
 {E8}
@@ -9665,16 +9847,19 @@ quais regeneram conforme o tempo.
 {E70E} Irina
 
 {E318} AVATAR
-Sabe, eu mesmo não costumo cobrar*
+Sabe, eu mesma não costumo cobrar*
 tanto assim das pessoas.
+
 {E5E9} EVENTO
 Especialmente em se tratando de*
 vampiros. Mas alguém tinha que*
 fazê-lo.
+
 {E5E9} EVENTO
 E estamos todos felizes agora que*
 tudo acabou! Por favor, aceite*
 isso como recompensa!
+
 {E5E4} EVENTO
 
 
@@ -9685,17 +9870,21 @@ isso como recompensa!
 
 {E300} AVATAR
 Isto completará [Dominus]...
+
 {E5E9} EVENTO
 O poder que corrompeu Albus... e o*
 consumiu.
+
 {E5E9} EVENTO
 Será que este poder amaldiçoado*
 realmente pode ser usado para*
 derrotar o mal?
+
 {E5E9} EVENTO
 ... Devolverei a última parte a*
 Barlowe. Enfim minha missão está*
 concluída.
+
 {E5E4} EVENTO
 
 
@@ -9708,14 +9897,17 @@ concluída.
 Ah sim, é você...*
 Traz pra mim um pouco de*
 [Camomila] e [Arruda].
+
 {E5E9} EVENTO
 Então eu farei um antídoto para*
 envenenamento. Você não está*
 ENVENENADA, está?
+
 {E5E9} EVENTO
 Bem, isso vai curá-la. Então talvez*
 eu passe a acreditar mais em você.*
 Não muito, mas um pouco.
+
 {E5E4} EVENTO
 
 
@@ -9726,15 +9918,18 @@ Não muito, mas um pouco.
 
 {E303} AVATAR
 Albus!
+
 {E5E4} EVENTO
 
 {E701} Albus
 
 {E305} AVATAR
 Impressionante, Shanoa.
+
 {E5E9} EVENTO
 Felizmente para você, eu já*
 lhe preparei uma gratificação...
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -9744,10 +9939,12 @@ lhe preparei uma gratificação...
 {E305} AVATAR
 Por enquanto, isto é o melhor que eu*
 posso fazer.
+
 {E5E9} EVENTO
 Esse glifo do [Dominus] é o motivo*
 de você ter vindo atrás de mim, não é?*
 Absorva-o. É seu.
+
 {E5E4} EVENTO
 
 
@@ -9759,14 +9956,17 @@ Absorva-o. É seu.
 {E314} AVATAR
 O [Grito da Banshee] tem a fama de*
 ser um presságio da morte.
+
 {E5E9} EVENTO
 É muito perigoso me arriscar a*
 gravá-lo... a não ser que você se*
 importe em ajudar!
+
 {E5E9} EVENTO
 É só usar o [Fonógrafo] quando*
 a banshee gritar!*
 Você ficará bem, tenho certeza!
+
 {E5E4} EVENTO
 
 
@@ -9813,17 +10013,21 @@ e conectar-se à Nintendo WFC?
 
 {E314} AVATAR
 Obrigado, senhorita!
+
 {E5E9} EVENTO
 Agora, com esta grande pena, poderei*
 gravar meu lugar no consagrado*
 pergaminho da história!
+
 {E5E9} EVENTO
 Estou tocado com o fato desta terra*
 assombrada ter sido presenteada com*
 com suas tormentas e máculas.
+
 {E5E9} EVENTO
 Ah, e compre o disco quando passar*
 pela loja.
+
 {E5E4} EVENTO
 
 
@@ -9836,13 +10040,16 @@ pela loja.
 Bom, acho que já basta de remédios.*
 Exceto os meus, mas isso é outra*
 história.
+
 {E5E9} EVENTO
 Você sempre terá o meu apoio moral*
 daqui, numa distância bem segura.
+
 {E5E9} EVENTO
 E sempre que precisar de remédios,*
 pense em mim.*
 PENSE EM MIM!!
+
 {E5E4} EVENTO
 
 
@@ -9875,15 +10082,19 @@ farol?
 {E318} AVATAR
 Você me salvou! Ah, muito obrigada!*
 Muito obrigada mesmo!
+
 {E5E9} EVENTO
 ... Bem, eu sei que você acaba de*
 me salvar, mas me dê licença.
+
 {E5E9} EVENTO
 Estou preocupada com os meus filhos.*
 A propósito, eu me chamo Irina.
+
 {E5E9} EVENTO
 Ah... bem, eu preciso voltar.*
-Você se cuide por aí.... Tchau!*
+Você se cuide por aí.
+... Tchau!*
 
 {E5E4} EVENTO
 
@@ -9897,16 +10108,19 @@ Você se cuide por aí.... Tchau!*
 Tudo bem, eu farei umas peças novas e*
 vou colocá-las à venda na loja do*
 Jacob.
+
 {E5E9} EVENTO
 E não. Não posso dar as peças para*
 você de graça. Eu me entrego de corpo*
 e alma para fazê-las.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Certamente.
+
 {E5E4} EVENTO
 
 {E707} Eugen
@@ -9914,6 +10128,7 @@ Certamente.
 {E311} AVATAR
 Mas eu também pago uma quantia aos*
 meus fornecedores. Tome.
+
 {E5E4} EVENTO
 
 
@@ -9926,12 +10141,14 @@ meus fornecedores. Tome.
 Ah, você foi rápida.*
 Já desenhou a vista do topo*
 do Farol?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Ainda não.
+
 {E5E4} EVENTO
 
 {E70F} Daniela
@@ -9940,9 +10157,11 @@ Ainda não.
 Vá ao topo do [Farol] e use o*
 [Livro de Arte] que lhe dei.*
 Use-o para desenhar a paisagem.
+
 {E5E9} EVENTO
 Senão, terei que comer este*
 bolo sozinha!
+
 {E5E4} EVENTO
 
 
@@ -9955,14 +10174,17 @@ bolo sozinha!
 Depois que gravei minha última peça,*
 o [Fonógrafo] que peguei emprestado*
 do meu amigo explodiu!
+
 {E5E9} EVENTO
 Vou dizer a ele que "Esse é o valor da*
 arte"... mas é bem provável que meu*
 amigo vá discordar.
+
 {E5E9} EVENTO
 Talvez eu fique por aqui uns tempos,*
 onde é mais difícil ele me*
 encontrar.
+
 {E5E4} EVENTO
 
 
@@ -9975,15 +10197,19 @@ encontrar.
 Ei moça, você já viu uma [Coruja]?*
 É que eu ouvi falar que se você ver*
 uma, ela dá boa sorte...
+
 {E5E9} EVENTO
 Queria muito que ela me desse*
 sorte.
+
 {E5E9} EVENTO
 Então se você ver uma [Coruja], pode*
 me mostrar?
+
 {E5E9} EVENTO
 Eu te dou algo bem legal se você*
 conseguir!
+
 {E5E4} EVENTO
 
 
@@ -9995,14 +10221,18 @@ conseguir!
 {E315} AVATAR
 Todos falam que o homem que nos*
 sequestrou é uma pessoa má.
+
 {E5E9} EVENTO
 Mas, sei lá...
+
 {E5E9} EVENTO
 Eu acho que podem estar enganados,*
 porque ele me disse uma coisa legal:
+
 {E5E9} EVENTO
 "Você tem que ficar forte o bastante*
 para proteger a sua irmã."
+
 {E5E4} EVENTO
 
 
@@ -10014,16 +10244,20 @@ para proteger a sua irmã."
 {E30F} AVATAR
 Agora preciso de um pouco de*
 [Sálvia] e [Raíz de Mandrágora].
+
 {E5E9} EVENTO
 Com esses, você não vai mais precisar*
 se curar de pouquinho em pouquinho.
+
 {E5E9} EVENTO
 Você vai trazer pra mim, né?*
 Ah, vai sim. Eu te conheço.*
 Conheço esse seu tipo.
+
 {E5E9} EVENTO
 Inexorável e infalível.*
 É isso aí!
+
 {E5E4} EVENTO
 
 
@@ -10034,20 +10268,25 @@ Inexorável e infalível.*
 
 {E312} AVATAR
 F-Fui salvo!
+
 {E5E9} EVENTO
 Acho que a eterna boaventura do*
 paraíso vai ter de esperar,*
 hein?
+
 {E5E9} EVENTO
 Me chamo Aeon e sou cozinheiro.*
 Já trabalhei em todo tipo de*
 restaurante.
+
 {E5E9} EVENTO
 Uma das vezes eu consegui trabalhar*
 por três semanas inteiras!
+
 {E5E9} EVENTO
 Venha me visitar na vila. Vou te*
 preparar um petisco!
+
 {E5E4} EVENTO
 
 
@@ -10060,18 +10299,23 @@ preparar um petisco!
 Ufa!*
 Estou a salvo, graças a você.*
 Obrigado!
+
 {E5E9} EVENTO
 Eu sou Jacob. Tenho uma pequena*
 loja na Vila de Wygol.
+
 {E5E9} EVENTO
 Falando nisso, tenho que voltar para*
 lá agora mesmo!
+
 {E5E9} EVENTO
 Tenho algumas coisas que*
 podem ser úteis a você lá.
+
 {E5E9} EVENTO
 Venha à loja. Faremos bons*
 negócios!
+
 {E5E4} EVENTO
 
 
@@ -10095,12 +10339,14 @@ para todo o sempre.
 Sabe, Shanoa, quando tudo isso*
 acabar, por que nós duas não*
 fazemos um piquenique?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Quando tudo isso acabar?
+
 {E5E4} EVENTO
 
 {E70F} Daniela
@@ -10109,10 +10355,12 @@ Quando tudo isso acabar?
 Eu posso quase afirmar que você está*
 cumprindo uma tarefa muito*
 importante.
+
 {E5E9} EVENTO
 Quando acabar, volte aqui. Vou*
 preparar um bolo encantador para*
 comemorar.
+
 {E5E4} EVENTO
 
 
@@ -10125,16 +10373,20 @@ comemorar.
 Suas lembranças podem ter sido*
 perdidas, mas você não deve*
 perder-se.
+
 {E5E9} EVENTO
 Ouça: Seus instintos de guerreira*
 têm de perseverar.
+
 {E5E9} EVENTO
 Agora una os glifos dos dois braços,*
 para executar o "Glifo Conjunto".
+
 {E5E9} EVENTO
 Lembre-se: Ao utilizar os glifos em*
 conjunto, poderá realizar ataques*
 poderosíssimos.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -10148,6 +10400,7 @@ poderosíssimos.
 {EF}
 )]*
 para executar um Glifo Conjunto.
+
 {E5E4} EVENTO
 
 {E8}
@@ -10161,19 +10414,24 @@ para executar um Glifo Conjunto.
 {E30A} AVATAR
 As três partes de [Dominus]*
 hão de ser unidas.
+
 {E5E9} EVENTO
 Diante do receptáculo, o Glifo Conjunto*
 há de ser realizado.
+
 {E5E9} EVENTO
 Então, a grande esperança para o mundo*
 há de se erguer!
+
 {E5E9} EVENTO
 O desejo de Eclésia...*
 O desejo de toda a humanidade.
+
 {E5E9} EVENTO
 Vá agora, Shanoa!*
 Tudo depende de você.*
 Você é a salvadora deste mundo!
+
 {E5E4} EVENTO
 
 
@@ -10197,20 +10455,24 @@ vazias e das almas desamparadas?
 Aqui estou...*
 Tudo se foi.*
 ... E tão pouco eu tinha.
+
 {E5E9} EVENTO
 Não, isso não é verdade.*
 Ainda me resta algo...*
 ... Cumprir meu papel.
+
 {E5E9} EVENTO
 
 {E301} AVATAR
 Eu sou a única que pode acabar*
 com tudo isso.*
 Ouça-me, [Drácula]!
+
 {E5E9} EVENTO
 Eu sou o Sol do amanhecer, que veio*
 para trazer a luz a esta noite*
 horrível!
+
 {E5E4} EVENTO
 
 
@@ -10221,12 +10483,14 @@ horrível!
 
 {E316} AVATAR
 Quem... é você...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 ...!?
+
 {E5E4} EVENTO
 
 {E70C} Anna
@@ -10235,12 +10499,14 @@ Quem... é você...
 Eu achava... que tinha me livrado...*
 daquele gato irritante... mas agora...*
 você...!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Possessão demoníaca?
+
 {E5E4} EVENTO
 
 {E70C} Anna
@@ -10248,9 +10514,11 @@ Possessão demoníaca?
 {E316} AVATAR
 Moça, por favor...*
 Eu preciso...
+
 {E5E9} EVENTO
 ... Encontrar o Tom...*
 Talvez numa árvore alta...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -10258,6 +10526,7 @@ Talvez numa árvore alta...
 {E300} AVATAR
 Ah, o gato.*
 Eu vou encontrá-lo.
+
 {E5E4} EVENTO
 
 
@@ -10284,9 +10553,11 @@ das
 Neves] existe*
 mesmo, hein? Eu jamais o teria*
 descoberto.
+
 {E5E9} EVENTO
 Nossa, ele é enorme!*
 Aqui está a sua parte. Bom trabalho!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -10296,10 +10567,12 @@ Aqui está a sua parte. Bom trabalho!
 {E313} AVATAR
 Acho que receberei propostas de*
 redações melhores muito em breve!
+
 {E5E9} EVENTO
 Bom, a revista estará na loja,*
 como tem sido até então.*
 Não se esqueça de comprar a sua!
+
 {E5E4} EVENTO
 
 
@@ -10311,13 +10584,16 @@ Não se esqueça de comprar a sua!
 {E313} AVATAR
 Você não vai acreditar: o chefe*
 me demitiu!
+
 {E5E9} EVENTO
 Agora ele só quer saber de*
 artigos sérios sobre esportes.*
 Bah! Que seja...
+
 {E5E9} EVENTO
 Eu estava pensando em morar*
 aqui mesmo.
+
 {E5E9} EVENTO
 Com o Homem
 {AC}
@@ -10325,6 +10601,7 @@ das
 {AC}
 Neves, o Chupa-Cabra*
 e, é claro, com a joalheira Laura...
+
 {E5E4} EVENTO
 
 
@@ -10337,16 +10614,20 @@ e, é claro, com a joalheira Laura...
 O mal prospera nas sombras de*
 Castlevania. A própria lembrança*
 dele atrai demônios fétidos.
+
 {E5E9} EVENTO
 Para vencer, você precisa explorar*
 suas fraquezas.
+
 {E5E9} EVENTO
 O esqueleto, por exemplo.*
 Ele é resistente ao gelo, mas*
 o fogo lhe devasta.
+
 {E5E9} EVENTO
 E, também, um golpe simples e*
 violento funciona muito bem.
+
 {E5E4} EVENTO
 
 
@@ -10357,6 +10638,7 @@ violento funciona muito bem.
 
 {E301} AVATAR
 Solte este homem, Albus.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -10367,6 +10649,7 @@ Solte este homem, Albus.
 Como desejar, minha querida.*
 Eu já estava terminando mesmo.*
 Ele é todo seu.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -10374,6 +10657,7 @@ Ele é todo seu.
 {E301} AVATAR
 Por que envolver os aldeões?*
 Isso não tem nada a ver com eles.
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -10381,9 +10665,11 @@ Isso não tem nada a ver com eles.
 {E305} AVATAR
 Não tem nada a ver?*
 Não se preocupe, minha cara Shanoa...
+
 {E5E9} EVENTO
 Tudo fará sentido quando meu plano*
 estiver concluído.
+
 {E5E4} EVENTO
 
 
@@ -10395,14 +10681,17 @@ estiver concluído.
 {E313} AVATAR
 Puxa! Mas que... puxa! Então esse é*
 o [Demônio de Jérsei]?
+
 {E5E9} EVENTO
 Ele nem parece um demônio, muito*
 menos se parece com um boi de gado*
 jérsei como eu achava. Mas, que seja.
+
 {E5E9} EVENTO
 Nossos leitores vão ter que engolir*
 de qualquer jeito.*
 Aqui está a sua parte. Aproveite!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -10413,6 +10702,7 @@ Aqui está a sua parte. Aproveite!
 A revista está disponível na*
 loja, então compre logo!*
 É isso que os profissionais fazem.
+
 {E5E4} EVENTO
 
 
@@ -10425,16 +10715,20 @@ loja, então compre logo!*
 Ora, então você conseguiu.*
 [Camomila] e [Arruda].*
 Obrigado de novo, por enquanto.
+
 {E5E9} EVENTO
 Então agora posso fazer o antídoto*
 e enviá-lo à loja para você.
+
 {E5E9} EVENTO
 Você acaba de ganhar precisamente*
 oito pontos de confiança.
+
 {E5E9} EVENTO
 Se você sabe algo sobre confiança,*
 então sabe que estou sendo*
 generoso.
+
 {E5E4} EVENTO
 
 
@@ -10458,18 +10752,22 @@ repleta de esqueletos decaídos.
 {E316} AVATAR
 Moça, você se lembra do Tom, não é?*
 O Tom, meu gato.
+
 {E5E9} EVENTO
 Ele parece estar muito cansado*
 desde o dia que expulsou*
 aquele espírito.
+
 {E5E9} EVENTO
 Ele vai ficar melhor se dermos um*
 [Rato] pra ele? São muito rápidos*
 e não consigo pegá-los...
+
 {E5E9} EVENTO
 Então...*
 Pode pegar um [Rato] para o Tom?*
 Por favor?
+
 {E5E4} EVENTO
 
 
@@ -10482,16 +10780,19 @@ Por favor?
 Senhorita, não quero saber que*
 tipo de coisa que você enfrenta*
 lá fora.
+
 {E5E9} EVENTO
 Mas apenas faça isto: Me traga 3*
 [Pepitas de Ouro]. Vou forjá-las*
 da melhor forma possível para você.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Muito obrigada.
+
 {E5E4} EVENTO
 
 {E707} Eugen
@@ -10499,8 +10800,10 @@ Muito obrigada.
 {E311} AVATAR
 Não precisa agradecer. Nós todos*
 estamos só fazendo o que podemos.
+
 {E5E9} EVENTO
 É tudo que tenho a dizer.
+
 {E5E4} EVENTO
 
 
@@ -10512,6 +10815,7 @@ estamos só fazendo o que podemos.
 {E314} AVATAR
 Foi muito gentil de sua parte*
 me salvar.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -10519,6 +10823,7 @@ me salvar.
 {E300} AVATAR
 Ele lhe fez algo estranho?*
 Onde estão os outros?
+
 {E5E4} EVENTO
 
 {E70A} George
@@ -10526,10 +10831,12 @@ Onde estão os outros?
 {E314} AVATAR
 Ele tirou um pouco do meu sangue e*
 disse algumas palavras num cântico...
+
 {E5E9} EVENTO
 Quanto aos outros, eu ouvi ele*
 dizer que iria à vila.*
 Estou preocupado.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -10537,6 +10844,7 @@ Estou preocupado.
 {E300} AVATAR
 À vila novamente...?*
 O que Albus está tentando fazer?
+
 {E5E4} EVENTO
 
 
@@ -10549,13 +10857,16 @@ O que Albus está tentando fazer?
 Então é esse o [Chupa-Cabra]?*
 Bom, é parecido com o que os rumores*
 diziam a respeito.
+
 {E5E9} EVENTO
 Somos uma revista de esportes,*
 mas cobrimos vários assuntos,*
 como esse por exemplo.
+
 {E5E9} EVENTO
 De qualquer forma, aqui está a sua*
 parte da recompensa.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -10592,6 +10903,7 @@ mágicas.
 AINDA não consegue sorrir, hein?*
 Eu devo estar fazendo alguma coisa*
 errada...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -10599,6 +10911,7 @@ errada...
 {E300} AVATAR
 Não é isso. Não se pode extrair*
 emoções que não existem.
+
 {E5E4} EVENTO
 
 {E706} Laura
@@ -10607,10 +10920,12 @@ emoções que não existem.
 Mas que droga! Última tentativa:*
 Faça-me um favor e traga uma pedra*
 de [Alexandrita].
+
 {E5E9} EVENTO
 Eu vou extrair emoções de você.*
 Será o maior trabalho da*
 minha vida!
+
 {E5E4} EVENTO
 
 
@@ -10621,16 +10936,19 @@ minha vida!
 
 {E314} AVATAR
 Ah, estou livre! Excelente!
+
 {E5E9} EVENTO
 Agora preciso voltar à vila*
 enquanto essa inspiração ainda*
 está fresca em minha mente...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Inspiração?
+
 {E5E4} EVENTO
 
 {E70A} George
@@ -10638,10 +10956,12 @@ Inspiração?
 {E314} AVATAR
 Os uivos, os gritos!*
 A música em seus primórdios!
+
 {E5E9} EVENTO
 E eu, George, serei o primeiro a*
 capturar tal melodia em uma música!*
 E nesta nota partirei!
+
 {E5E4} EVENTO
 
 
@@ -10665,12 +10985,14 @@ o esforço para encontrá-los.
 
 {E316} AVATAR
 Muito obrigada, moça!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 De nada.
+
 {E5E4} EVENTO
 
 {E70C} Anna
@@ -10678,6 +11000,7 @@ De nada.
 {E316} AVATAR
 E então, Tom? Eu fui bem educada,*
 não fui?
+
 {E5E4} EVENTO
 
 {E712} NOME
@@ -10691,6 +11014,7 @@ Miau.*
 
 {E300} AVATAR
 Você consegue falar com o gato?
+
 {E5E4} EVENTO
 
 {E70C} Anna
@@ -10699,10 +11023,12 @@ Você consegue falar com o gato?
 Isso mesmo!*
 Só eu consigo fazer isso. O meu*
 irmão não chega nem perto.
+
 {E5E9} EVENTO
 Eu estou preocupada com a minha*
 família, então vou voltar agora.*
 Até mais, moça!
+
 {E5E4} EVENTO
 
 
@@ -10715,17 +11041,21 @@ Até mais, moça!
 Enquanto tentava tanto chegar até o*
 seu coração... aprendi várias*
 coisas sobre o meu.
+
 {E5E9} EVENTO
 Uma vez eu fugi. O meu mestre sempre*
 apontava os meus erros, então eu*
 fugi dele...
+
 {E5E9} EVENTO
 Mas não pude fugir dos meus erros.*
 Você me ajudou a me livrar deles.
+
 {E5E9} EVENTO
 Mas agora sei de tantas coisas boas*
 que eu posso fazer. Graças a ele e*
 ao meu trabalho.
+
 {E5E4} EVENTO
 
 
@@ -10738,12 +11068,14 @@ ao meu trabalho.
 Ei, moça, e se a gente fosse*
 sequestrado de novo? Você ainda*
 viria nos salvar?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Não faço promessas.
+
 {E5E4} EVENTO
 
 {E70B} Serge
@@ -10751,15 +11083,19 @@ Não faço promessas.
 {E315} AVATAR
 Bom, eu sei como podemos descobrir*
 isso!
+
 {E5E9} EVENTO
 Essas são as regras:
+
 {E5E9} EVENTO
 Eu vou me esconder e contar até 15.*
 Você tem que me achar antes de eu*
 terminar de contar!
+
 {E5E9} EVENTO
 E ainda vai ter um prêmio!*
 Então, lá vou eu!
+
 {E5E4} EVENTO
 
 
@@ -10772,12 +11108,14 @@ Então, lá vou eu!
 Você não sorri muito, mas deveria!*
 Os homens fariam fila na frente*
 da sua casa!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Eu não sorrio.
+
 {E5E4} EVENTO
 
 {E706} Laura
@@ -10786,13 +11124,16 @@ Eu não sorrio.
 Não sorri? Que... estranho.*
 Humm, o que é que podemos fazer*
 para resolver isso...?
+
 {E5E9} EVENTO
 Já sei! Eu preciso de um [Rubi],*
 uma [Safira] e uma [Esmeralda].
+
 {E5E9} EVENTO
 Você não perde por esperar o que eu*
 vou fazer depois! Quando menos se*
 der conta, você estar sorrindo!
+
 {E5E4} EVENTO
 
 
@@ -10802,16 +11143,19 @@ der conta, você estar sorrindo!
 {E70D} Monica
 
 {E317} AVATAR
-S-são os [Carretéis de Caxemira]?*
+S-São os [Carretéis de Caxemira]?*
 Onde foi que você ENCONTROU?*
 É para mim?
+
 {E5E9} EVENTO
-V-você é incrível!*
+V-Você é incrível!*
 É tão incrível que farei este*
 vestido instantaneamente!
+
 {E5E9} EVENTO
 Um [Vestido de Festa].*
 Por favor aceite.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -10821,9 +11165,11 @@ Por favor aceite.
 {E317} AVATAR
 Farei outros vestidos, e vou*
 colocá-los à venda na loja.
+
 {E5E9} EVENTO
 Você poderia comprá-los, se quisesse.*
 Ou por engano, talvez.
+
 {E5E4} EVENTO
 
 
@@ -10833,16 +11179,19 @@ Ou por engano, talvez.
 {E70D} Monica
 
 {E317} AVATAR
-V-você me trouxe os*
+V-Você me trouxe os*
 [Carretéis de Lã]?
+
 {E5E9} EVENTO
 Você saiu da sua rota por minha*
 causa? Farei seu vestido num*
 piscar de olhos!
+
 {E5E9} EVENTO
 E está... pronto!*
 Um [Vestido de Lã].*
 Por favor aceite-o.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -10852,10 +11201,12 @@ Por favor aceite-o.
 {E317} AVATAR
 Talvez eu deva fazer mais vestidos*
 e vendê-los na loja.
+
 {E5E9} EVENTO
 Não que você precise se preocupar*
 com isso, mas se quiser mais um,*
 é só comprar.
+
 {E5E4} EVENTO
 
 
@@ -10867,12 +11218,14 @@ com isso, mas se quiser mais um,*
 {E310} AVATAR
 Ahn... Humm.*
 Onde estou...?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Você acordou.
+
 {E5E4} EVENTO
 
 {E706} Laura
@@ -10881,12 +11234,14 @@ Você acordou.
 A última coisa que me lembro é de*
 um homem se aproximando de mim...*
 Foi um sonho?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Não, isso foi...
+
 {E5E4} EVENTO
 
 {E706} Laura
@@ -10895,22 +11250,26 @@ Não, isso foi...
 É, não estou a fim de saber.*
 O que quer que seja, já está no*
 passado.
+
 {E5E9} EVENTO
 Vou voltar para casa.*
 Tenho trabalho a fazer.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Que tipo de trabalho?
+
 {E5E4} EVENTO
 
 {E706} Laura
 
 {E310} AVATAR
-Eu trabalho com joias.*
+Eu trabalho com jóias.*
 Me chamo Laura.
+
 {E5E4} EVENTO
 
 
@@ -10923,12 +11282,14 @@ Me chamo Laura.
 Ah! Este colar de gato tem um*
 [Crisoberilo] nele!*
 É perfeito para o Tom!
+
 {E5E9} EVENTO
 
 {E712} NOME
 
 {E31C} AVATAR
 ... Miau.
+
 {E5E4} EVENTO
 
 {E70C} Anna
@@ -10937,14 +11298,17 @@ Ah! Este colar de gato tem um*
 Muito obrigada, moça!*
 Agora o Tom não vai mais se machucar*
 quando tiver que me proteger.
+
 {E5E9} EVENTO
 Tome. É uma [Fita] para*
 você, senhorita.*
 É o meu maior tesouro!
+
 {E5E9} EVENTO
 Depois do Tom, é claro.*
 Enquanto Tom e eu estivermos*
 juntos, estará tudo bem!
+
 {E5E4} EVENTO
 
 
@@ -10957,17 +11321,21 @@ juntos, estará tudo bem!
 Desculpe-me pelo outro dia, por ter*
 pedido para você se livrar de todos*
 aqueles [Corvos].
+
 {E5E9} EVENTO
 Sou muito impaciente quando*
 há coisas para fazer.*
 Não consigo nem dormir à noite.
+
 {E5E9} EVENTO
 Mas... você foi lá e fez isso por mim!*
 Aqueles [Corvos] não serão mais um*
 perigo. Obrigada!
+
 {E5E9} EVENTO
 Aqui está, isto é tudo que tenho para*
 você. Por favor, aceite.
+
 {E5E4} EVENTO
 
 
@@ -10979,6 +11347,7 @@ você. Por favor, aceite.
 {E31C} AVATAR
 Rrrron!!*
 Grrr!!
+
 {E5E4} EVENTO
 
 {E70C} Anna
@@ -10987,12 +11356,14 @@ Grrr!!
 Maldito... gato! Aquela FLOR que...*
 você engoliu? Não!!*
 Aaaargh!
+
 {E5E4} EVENTO
 
 {E712} NOME
 
 {E31C} AVATAR
 Miaurrr.
+
 {E5E4} EVENTO
 
 {E70C} Anna
@@ -11001,14 +11372,17 @@ Miaurrr.
 Obrigada por trazer Tom de volta,*
 moça. O Tom me protege de espíritos*
 malvados.
+
 {E5E9} EVENTO
 Ele deve ter saído para procurar a*
 flor que mantém os espíritos*
 afastados.
+
 {E5E9} EVENTO
 Hm? O que é isso? Olha, Tom trouxe*
 algo na boca dele. Tome, moça, pode*
 ficar com isso.
+
 {E5E4} EVENTO
 
 
@@ -11021,21 +11395,26 @@ ficar com isso.
 Vejamos...*
 [Sálvia]...*
 [Raíz de Mandrágora]...
+
 {E5E9} EVENTO
 É, você conseguiu.*
 Eu sabia que conseguiria.
+
 {E5E9} EVENTO
 Agora vamos ao elixir de*
 vitalidade que prometi a você.*
 Vou deixar na loja.
+
 {E5E9} EVENTO
 Eu vou até fazer um favor para você e*
 pedir ao Jacob que mantenha isso em*
 estoque com um preço muito especial.
+
 {E5E9} EVENTO
 Para todo mundo. Não só pra você.*
 Eu odiaria começar RUMORES de*
 parcialidade.
+
 {E5E4} EVENTO
 
 
@@ -11047,6 +11426,7 @@ parcialidade.
 {EC}
  para aderir a imãs*
 com o glifo [Magnes].
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -11054,6 +11434,7 @@ com o glifo [Magnes].
 {E8}
 &Você pode puxar seu personagem com o*
 +Controle Direcional.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -11063,6 +11444,7 @@ com o glifo [Magnes].
 {EC}
  para lançar Shanoa*
 na direção oposta.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -11071,10 +11453,12 @@ na direção oposta.
 &Com este glifo, você pode acessar*
 locais que antes pareciam inatingíveis*
 normalmente.
+
 {E5E9} EVENTO
 Ele também pode ser usado para*
 esquivar de ataques durante as*
 batalhas.
+
 {E5E4} EVENTO
 
 {E8}
@@ -11115,13 +11499,16 @@ de exercer seu poder.
 Olha, não me interessa se você*
 pretende sair por aí e forçar*
 seu corpo além do limite.
+
 {E5E9} EVENTO
 Mas se você for derrotada, a minha*
 armadura também será. Então não morra.
+
 {E5E9} EVENTO
 Não me interessa se você vai ter que*
 voltar se arrastando, é só não morrer.*
 A minha reputação está em jogo.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -11129,6 +11516,7 @@ A minha reputação está em jogo.
 {E300} AVATAR
 Eu não tenho intenção de morrer,*
 senhor.
+
 {E5E4} EVENTO
 
 {E707} Eugen
@@ -11136,8 +11524,10 @@ senhor.
 {E311} AVATAR
 Então tudo bem. Você confia na minha*
 armadura e eu confio na sua garra.
+
 {E5E9} EVENTO
 É tudo que tenho a dizer.
+
 {E5E4} EVENTO
 
 
@@ -11150,14 +11540,17 @@ armadura e eu confio na sua garra.
 Ah, você trouxe a [Pedra de Sal].*
 Obrigado! Dá pra colocar um ótimo*
 sabor na comida com isso, sabia?
+
 {E5E9} EVENTO
 Aqui, veja!*
 Ta-dam! [Sopa de Milho]!*
 Com o sabor que merece!
+
 {E5E9} EVENTO
 Prove um pouco. É o que tenho*
 a oferecer pelo seu trabalho*
 árduo.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -11168,10 +11561,12 @@ a oferecer pelo seu trabalho*
 Sabe, eu não tenho muitos fregueses.*
 Acho que as pessoas daqui*
 preferem comer em casa.
+
 {E5E9} EVENTO
 Mesmo assim, eu vou começar a enviar*
 sopa de milho para o estoque da*
 loja.
+
 {E5E4} EVENTO
 
 
@@ -11183,16 +11578,19 @@ loja.
 {E319} AVATAR
 Ah, mas que desenho maravilhoso!*
 Você trouxe para mim?
+
 {E5E9} EVENTO
 ... Minha nossa, é uma vista*
 deslumbrante! Mas como que você*
 sabia sobre isso?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Você... me disse.
+
 {E5E4} EVENTO
 
 {E70F} Daniela
@@ -11200,10 +11598,12 @@ Você... me disse.
 {E319} AVATAR
 Ah, sua bobinha, eu lembraria se*
 tivesse lhe falado antes.
+
 {E5E9} EVENTO
 Mas que esplêndido! Tal talento*
 merece um prêmio especial!*
 Tome, não preciso mais disto.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -11213,6 +11613,7 @@ Tome, não preciso mais disto.
 {E319} AVATAR
 Volte depois, para tomarmos uma*
 xícara de chá juntas.
+
 {E5E4} EVENTO
 
 
@@ -11222,15 +11623,18 @@ xícara de chá juntas.
 {E70D} Monica
 
 {E317} AVATAR
-S-são os [Carretéis de Seda]!*
+S-São os [Carretéis de Seda]!*
 Você foi buscar só para mim?
+
 {E5E9} EVENTO
 Estou tããão emocionada!*
 Tanto que, de alguma forma, vou*
 fazer o vestido agora!
+
 {E5E9} EVENTO
 Um [Vestido de Seda].*
 Por favor aceite-o.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -11240,10 +11644,12 @@ Por favor aceite-o.
 {E317} AVATAR
 Talvez eu continue fazendo vestidos,*
 quem sabe para vender na loja.
+
 {E5E9} EVENTO
 Ahn... se você gostar...*
 Mas só se você gostar, por favor*
 pense em... comprá-los.
+
 {E5E4} EVENTO
 
 
@@ -11256,6 +11662,7 @@ pense em... comprá-los.
 Ha ha! Finalmente salvo, mas só para*
 ser trucidado por essa mulher*
 demoníaca!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -11263,6 +11670,7 @@ demoníaca!
 {E300} AVATAR
 Eu não tenho interesse em*
 matá-lo, senhor.
+
 {E5E4} EVENTO
 
 {E705} Abram
@@ -11270,17 +11678,21 @@ matá-lo, senhor.
 {E30F} AVATAR
 Jura?*
 Bom, ahn, obrigado!
+
 {E5E9} EVENTO
 Acho que não devia ter dito algo*
 assim pra você, que salvou a minha*
 pele, né?
+
 {E5E9} EVENTO
 Eu sou Abram. Sou o curandeiro*
 oficial da vila.
+
 {E5E9} EVENTO
 Por favor, venha visitar meu*
 estabelecimento...*
 SE TIVER CORAGEM!
+
 {E5E4} EVENTO
 
 
@@ -11293,10 +11705,12 @@ SE TIVER CORAGEM!
 E agora vamos à minha magnum opus...*
 Mas eu preciso das ferramentas*
 apropriadas para escrevê-la.
+
 {E5E9} EVENTO
 [Tinta Preta] e uma*
 [Pena de Águia], para ser mais*
 preciso. Poderia trazer para mim?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -11304,6 +11718,7 @@ preciso. Poderia trazer para mim?
 {E300} AVATAR
 Mas a loja já não vende tinta*
 e plumas para escrever?
+
 {E5E4} EVENTO
 
 {E70A} George
@@ -11312,10 +11727,12 @@ e plumas para escrever?
 É, mas não é uma pluma e uma tinta*
 comum que podem expressar a alma*
 torturada de um verdadeiro artista!
+
 {E5E9} EVENTO
 De qualquer forma, eu não esperava que*
 você fosse me entender mesmo.*
 Ninguém me entende...
+
 {E5E4} EVENTO
 
 
@@ -11328,12 +11745,14 @@ Ninguém me entende...
 Sabe, você se veste como se estivesse*
 de luto. É um desperdício para*
 um corpo tão-...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Já chega disso.
+
 {E5E4} EVENTO
 
 {E706} Laura
@@ -11342,15 +11761,18 @@ Já chega disso.
 Bom, me desculpe se fui um pouco*
 exagerada, mas faça um favor e me*
 escute.
+
 {E5E9} EVENTO
 Você se valorizaria bem mais, se você*
 se enfeitasse um pouco.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Enfeitasse?
+
 {E5E4} EVENTO
 
 {E706} Laura
@@ -11359,6 +11781,7 @@ Enfeitasse?
 Sim, isso. Traga um [Lápis-Lazúli]*
 e eu te mostro o que quero*
 dizer com isso.
+
 {E5E4} EVENTO
 
 
@@ -11370,18 +11793,22 @@ dizer com isso.
 {E30D} AVATAR
 Você salvou as vidas dessas pessoas,*
 e agora trouxe a paz de volta a todos.
+
 {E5E9} EVENTO
 Esta vila está se reconstruindo*
 diante de nossos olhos.*
 Muitíssimo obrigado por isso!
+
 {E5E9} EVENTO
 Você é mesmo uma bênção que veio*
 dos céus. Será uma santa.*
 Isso se já não for uma.
+
 {E5E9} EVENTO
 Por favor aceite isto.*
 É um anel que recebi de*
 herança dos meus antepassados.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -11391,6 +11818,7 @@ herança dos meus antepassados.
 {E30D} AVATAR
 Que Deus guie seus passos, onde*
 quer que você vá.
+
 {E5E4} EVENTO
 
 
@@ -11403,19 +11831,25 @@ quer que você vá.
 Ah, que susto!*
 Às vezes fica um silêncio*
 tão grande por aqui...
+
 {E5E9} EVENTO
 Sabe, eu estive pensando em cozinhar*
 algo exótico para você, mas preciso*
 dos ingredientes para isso.
+
 {E5E9} EVENTO
 Sabe, tipo um... [Peixe Cru]!*
 É disso que eu preciso.
+
 {E5E9} EVENTO
 Vamos preparar um [Peixe-Assassino].*
 Será que é difícil?
+
 {E5E9} EVENTO
 É só me trazer o ingrediente*
-e eu tento fazer pra você!Vai lá!
+e eu tento fazer pra você!
+Vai lá!
+
 {E5E4} EVENTO
 
 
@@ -11427,16 +11861,19 @@ e eu tento fazer pra você!Vai lá!
 {E30E} AVATAR
 Bem-vinda! Agora estou de volta aos*
 negócios, graças a você.
+
 {E5E9} EVENTO
 O meu catálogo está um tanto*
 estagnado, mas por favor, veja os*
 produtos!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Muito obrigada.
+
 {E5E4} EVENTO
 
 {E704} Jacob
@@ -11445,15 +11882,18 @@ Muito obrigada.
 Ei, sou EU quem lhe agradeço!*
 Se eu pudesse, lhe daria tudo de*
 graça, mas...
+
 {E5E9} EVENTO
 Você sabe como são os negócios hoje*
 em dia...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Entendo.
+
 {E5E4} EVENTO
 
 {E704} Jacob
@@ -11462,6 +11902,7 @@ Entendo.
 Que bom!*
 Então avise-me caso você se*
 interessar por algo na vitrine!
+
 {E5E4} EVENTO
 
 
@@ -11473,20 +11914,24 @@ interessar por algo na vitrine!
 {E316} AVATAR
 Moça! Tom não está melhorando nem*
 um pouquinho.
+
 {E5E9} EVENTO
 Eu perguntei ao Padre Nikolai.*
 Ele disse que a flor que expulsa*
 os maus espíritos é tóxica!
+
 {E5E9} EVENTO
 Mas o Tom comeu um monte delas só pra*
 me proteger! É por isso que ele está*
 assim tão doente?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Hum...
+
 {E5E4} EVENTO
 
 {E70C} Anna
@@ -11494,10 +11939,12 @@ Hum...
 {E316} AVATAR
 Então ele disse que eu só preciso*
 de algum tipo de talismã...
+
 {E5E9} EVENTO
 Ahn... é uma pedra chamada...*
 cre... cri... [Crisoberilo].*
 Pode achar uma pra mim?
+
 {E5E4} EVENTO
 
 
@@ -11510,12 +11957,14 @@ Pode achar uma pra mim?
 Ah, estas são as cataratas do*
 [Desfiladeiro Tristis]. Eu desenvolvi*
 as artes secretas ali.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Artes... secretas?
+
 {E5E4} EVENTO
 
 {E70F} Daniela
@@ -11524,10 +11973,12 @@ Artes... secretas?
 Bem, isso não importa.*
 Preciso lhe recompensar por*
 este desenho esplêndido...
+
 {E5E9} EVENTO
 Ah, sim. O que acha disto?*
 Eu não sei para que serve,*
 mas parece muito interessante.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -11538,6 +11989,7 @@ mas parece muito interessante.
 Você vai voltar, combinado?*
 Não precisa nem responder.*
 Eu sei que vai.
+
 {E5E4} EVENTO
 
 
@@ -11550,14 +12002,17 @@ Eu sei que vai.
 Me perdoe, de novo, por pedir que*
 você vá e lute contra [Lobisomens]*
 e outros tipos de monstros...
+
 {E5E9} EVENTO
 É que quando há coisas a fazer,*
 eu fico pensando nelas até que*
 sejam feitas!
+
 {E5E9} EVENTO
 Mas agora já posso descansar*
 tranquila.*
 Tome, é para você.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -11567,12 +12022,14 @@ Tome, é para você.
 {E318} AVATAR
 Então, aqueles monstros eram lobos*
 ou eles eram humanos?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Eu não tenho certeza...
+
 {E5E4} EVENTO
 
 {E70E} Irina
@@ -11581,6 +12038,7 @@ Eu não tenho certeza...
 Bom, isso com certeza vai me*
 incomodar por uns tempos...*
 Humm...
+
 {E5E4} EVENTO
 
 
@@ -11592,19 +12050,23 @@ Humm...
 {E314} AVATAR
 Sua pontualidade é impecável!*
 Acabo de compor uma ode ao terror!
+
 {E5E9} EVENTO
 E agora devo gravá-lo, para todo o*
 sempre, nisto: o Fonógrafo do meu*
 amigo!
+
 {E5E9} EVENTO
 Empreste-me seus ouvidos enquanto*
 toco neste... neste...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Hã?
+
 {E5E4} EVENTO
 
 {E70A} George
@@ -11613,10 +12075,12 @@ Hã?
 ... Neste violino quebrado.*
 Eu me esqueci que estava quebrado.*
 Ah, mas que droga.
+
 {E5E9} EVENTO
 A-ham! Você poderia gentilmente*
 procurar-me alguma [Crina de Cavalo]*
 para que eu possa fazer um novo arco?
+
 {E5E4} EVENTO
 
 
@@ -11628,12 +12092,14 @@ para que eu possa fazer um novo arco?
 {E30A} AVATAR
 Seu regime de treinamento em breve*
 estará concluído.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Como quiser, senhor.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -11641,15 +12107,19 @@ Como quiser, senhor.
 {E30A} AVATAR
 Nós manipulamos o poder em todas as*
 coisas, grandes e pequenas,
+
 {E5E9} EVENTO
 para forjar os glifos através da arte*
 secreta de Eclésia.
+
 {E5E9} EVENTO
 E com isso, ganhamos a força para*
 salvar a humanidade.
+
 {E5E9} EVENTO
 Por favor, absorva o glifo diante de*
 você.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -11659,9 +12129,11 @@ você.
 pressionando [
 {F3}
 ].
+
 {E5E9} EVENTO
 Ao terminar a absorção, você obterá*
 o glifo e ganhará 10 corações.
+
 {E5E4} EVENTO
 
 {E8}
@@ -11676,12 +12148,14 @@ o glifo e ganhará 10 corações.
 Eu ouvi o Padre Nikolai dizer que você*
 está perseguindo um vampiro, é verdade?*
 Eu posso fazer algo para ajudar?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Não, eu...
+
 {E5E4} EVENTO
 
 {E70E} Irina
@@ -11690,23 +12164,28 @@ Não, eu...
 É mesmo? Mas sabe, falando em*
 vampiros, existe um rumor por aí de*
 um vampiro que veio do oriente...
+
 {E5E9} EVENTO
 Dizem que ele está morando*
 na [Caverna Gigante].*
 Isso é assustador!
+
 {E5E9} EVENTO
 Como é que pode, alguém dormir*
 à noite com uma criatura dessas*
 vagando à solta?
+
 {E5E9} EVENTO
 Você poderia matá-lo?*
 Que bom! Fico te devendo essa.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Certamente.
+
 {E5E4} EVENTO
 
 
@@ -11719,27 +12198,34 @@ Certamente.
 Me ouça. Eu queria muito te recompensar,*
 mas em vez disso acabei te mandando*
 em missões bobas...
+
 {E5E9} EVENTO
 Quanta ignorância de minha parte!
+
 {E5E9} EVENTO
 Desta vez, deixe eu te recompensar*
 apropriadamente com este*
 [Vestido de Seda]...
+
 {E5E9} EVENTO
 ......*
 Ah não!
+
 {E5E9} EVENTO
 Os bichos-da-seda morreram todos*
 enquanto eu estava fora...*
 Não tem mais fio...
+
 {E5E9} EVENTO
 E eu preciso de pelo menos*
 5 [Carretéis de Seda] para fazer*
 um [Vestido de Seda]!
+
 {E5E9} EVENTO
 Eu continuo dependendo dos outros...*
 Acho que vou me enterrar num*
 buraco e ficar lá...
+
 {E5E4} EVENTO
 
 
@@ -11752,9 +12238,11 @@ buraco e ficar lá...
 Muito bom. Você verá agora*
 do que eu sou capaz.*
 Vá na loja do Jacob mais tarde.
+
 {E5E9} EVENTO
 E aqui está o seu pagamento pelos*
 materiais.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -11764,18 +12252,22 @@ materiais.
 {E311} AVATAR
 O Padre Nikolai salvou a minha vida*
 naquele dia.
+
 {E5E9} EVENTO
 Eu perguntei a ele como poderia pagar*
 essa dívida, mas ele respondeu:*
 "Faça o que você puder."
+
 {E5E9} EVENTO
 Então, aqui estou, fazendo o que posso*
 nesse lugar, com aquilo que eu*
 tenho em mãos.
+
 {E5E9} EVENTO
 Faça o que você puder também.*
 Se você se meter em encrenca de novo,*
 volte a falar comigo.
+
 {E5E4} EVENTO
 
 
@@ -11788,14 +12280,17 @@ volte a falar comigo.
 Armaduras necessitam de*
 flexibilidade, sabe? Elas quebram*
 se não são projetadas assim.
+
 {E5E9} EVENTO
 Você não pode simplesmente levar*
 todos os golpes. Às vezes você*
 precisa se esquivar.
+
 {E5E9} EVENTO
 Você passa por um monte de situações*
 perigosas lá fora, né? Não há outro*
 meio de resolver as coisas?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -11804,6 +12299,7 @@ meio de resolver as coisas?
 Aprecio sua preocupação, mas*
 desconheço outra forma de*
 resolver isso.
+
 {E5E4} EVENTO
 
 {E707} Eugen
@@ -11812,10 +12308,12 @@ resolver isso.
 Então vou pelo menos projetar minhas*
 armaduras para que você sobreviva*
 aos golpes.
+
 {E5E9} EVENTO
 Já sabe como é: passe na loja do Jacob*
 mais tarde. E aqui está a minha retri-*
 buição por encontrar os materiais.
+
 {E5E4} EVENTO
 
 
@@ -11827,18 +12325,22 @@ buição por encontrar os materiais.
 {E318} AVATAR
 Ah, que bom que você está aqui.*
 Queria mesmo te pedir um favor.
+
 {E5E9} EVENTO
 ... Receio que seja um tanto*
 complicado.
+
 {E5E9} EVENTO
 Sabe, alguns [Corvos] estão*
 agindo furiosamente esses dias.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 ... Corvos?
+
 {E5E4} EVENTO
 
 {E70E} Irina
@@ -11847,19 +12349,23 @@ agindo furiosamente esses dias.
 Acho que existe um ninho deles.*
 De qualquer forma, eles são muito*
 ferozes.
+
 {E5E9} EVENTO
 Sempre se atirando e bicando as*
 pessoas... Você poderia matar,*
 digamos, uns 30 deles?
+
 {E5E9} EVENTO
 Seria de grande ajuda.*
 Obrigada! Fico te devendo essa.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Certo.
+
 {E5E4} EVENTO
 
 
@@ -11871,6 +12377,7 @@ Certo.
 {E300} AVATAR
 Acabou, senhor.*
 Eu recuperei [Dominus].
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -11878,6 +12385,7 @@ Eu recuperei [Dominus].
 {E30B} AVATAR
 E quanto ao Albus?*
 Ele se entregou, ou ele...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -11885,6 +12393,7 @@ Ele se entregou, ou ele...
 {E300} AVATAR
 Foi... tarde demais.*
 Perdão.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -11892,23 +12401,28 @@ Perdão.
 {E30B} AVATAR
 Trágico... mas já não podemos fazer*
 mais nada a respeito.
+
 {E5E9} EVENTO
 
 {E30A} AVATAR
 Ele queria o mesmo que nós dois.*
 Mas a necessidade dele era demais.
+
 {E5E9} EVENTO
 Ainda assim, há um modo de honrá-lo.*
 Use [Dominus] e faça a missão se*
 completar.
+
 {E5E9} EVENTO
 Certamente Albus queria que as coisas*
 acontecessem dessa forma.
+
 {E5E9} EVENTO
 
 {E30B} AVATAR
 É chegada a hora!*
 Vamos à câmara proibida!
+
 {E5E4} EVENTO
 
 
@@ -11920,24 +12434,30 @@ Vamos à câmara proibida!
 {E30F} AVATAR
 É a [Sálvia] e a [Carne de Sereia]!*
 Você achou! Incrível!
+
 {E5E9} EVENTO
 Vou fazer para você uma poção de*
 mega-cura-instantânea!*
 E vai ficar por conta da casa!
+
 {E5E9} EVENTO
 ... Peraí. Se eu der a poção de graça,*
 você vai levá-la numa situação perigosa*
 e se ferir de propósito só pra usá-la.
+
 {E5E9} EVENTO
 Não faça isso!*
 Você significa muito para mim!
+
 {E5E9} EVENTO
 Então... tendo isso em mente,*
 eu NÃO VOU te dar a poção.
+
 {E5E9} EVENTO
 Vou deixá-la na loja e fazer com*
 que o preço seja bem caro, então você*
 não vai conseguir comprar. Rá!
+
 {E5E4} EVENTO
 
 
@@ -11949,12 +12469,14 @@ não vai conseguir comprar. Rá!
 {E30D} AVATAR
 Você precisa nos ajudar!*
 ... Aquele homem voltou de novo.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Você precisa me dizer o que ele fez.
+
 {E5E4} EVENTO
 
 {E703} Nikolai
@@ -11963,10 +12485,12 @@ Você precisa me dizer o que ele fez.
 Só de pensar nisso já me dá*
 calafrios. Ele usou um aparelho*
 para tirar um pouco do nosso sangue.
+
 {E5E9} EVENTO
 ... Será que ele é o monstro tão*
 falado nas lendas?*
 ... [Drácula]?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -11974,6 +12498,7 @@ falado nas lendas?*
 {E300} AVATAR
 Eu não entendo.*
 Por que ele precisaria de sangue?
+
 {E5E4} EVENTO
 
 {E703} Nikolai
@@ -11982,10 +12507,12 @@ Por que ele precisaria de sangue?
 Existe uma velha mansão depois do*
 pântano. Ele pode estar se abrigando*
 lá dentro.
+
 {E5E9} EVENTO
 Ó Senhor, quais horrores esse*
 monstro pode estar tramando para*
 nós...?
+
 {E5E4} EVENTO
 
 
@@ -11998,6 +12525,7 @@ nós...?
 Ainda não consegue sorrir, hein...?*
 Será que as minhas habilidades ainda*
 não são o bastante?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -12005,6 +12533,7 @@ não são o bastante?
 {E300} AVATAR
 Não é culpa sua. Meus problemas vão*
 além do que você pode imaginar.
+
 {E5E4} EVENTO
 
 {E706} Laura
@@ -12012,6 +12541,7 @@ além do que você pode imaginar.
 {E310} AVATAR
 ... Então, me diga.*
 Tem algum homem em sua vida?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -12020,6 +12550,7 @@ Tem algum homem em sua vida?
 Ninguém por quem seja capaz*
 de me preocupar.*
 E quanto a você?
+
 {E5E4} EVENTO
 
 {E706} Laura
@@ -12028,14 +12559,17 @@ E quanto a você?
 Bom, existe alguém...*
 Mas eu não gosto muito de*
 falar de mim mesma...
+
 {E5E9} EVENTO
 Pois bem, adiante.*
 Eu preciso de um [Diamante]*
 e um [Ônix]!
+
 {E5E9} EVENTO
 Então eu VOU fazer algo forte o*
 suficiente para chegar até o seu*
 coração.
+
 {E5E4} EVENTO
 
 
@@ -12048,14 +12582,17 @@ coração.
 Rá! Sem dúvida, é uma bisteca*
 de [Carne Saborosa] mesmo.*
 Só o cheiro já entrega!
+
 {E5E9} EVENTO
 Agora eu posso cozinhar com orgulho,*
 assim como um mestre cuca*
 recém-formado.
+
 {E5E9} EVENTO
 Tome. É um presente especial para*
 você, minha única e melhor cliente:*
 Um [Bife Grande].
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -12066,14 +12603,17 @@ Um [Bife Grande].
 Quem diria que prestar atenção ao*
 sabor poderia fazer os pratos*
 terem um gosto melhor?
+
 {E5E9} EVENTO
 Levou mais de 20 anos para conseguir*
 chegar até aqui. Mas é assim mesmo,*
 difícil de se tornar um mestre cuca.
+
 {E5E9} EVENTO
 Eu espero que você também possa se*
 tornar muito boa em sua profissão*
 quando chegar à minha idade.
+
 {E5E4} EVENTO
 
 
@@ -12085,29 +12625,37 @@ quando chegar à minha idade.
 {E317} AVATAR
 Me desculpe! Agora foram DOIS trabalhos*
 que eu pedi para você.
+
 {E5E9} EVENTO
 Você fez os dois, e ainda não*
 consegui te recompensar*
 apropriadamente... Espere.
+
 {E5E9} EVENTO
 Já sei: Caxemira.*
 O melhor material já criado...
+
 {E5E9} EVENTO
 Não, eu não sei nem como que*
 isso parece!
+
 {E5E9} EVENTO
 Como eu sou boba, querendo fazer um*
 vestido de um material que eu nunca*
 vi...
+
 {E5E9} EVENTO
 Mas se eu TIVESSE*
 5 [Carretéis de Caxemira]...
+
 {E5E9} EVENTO
 Eu podia fazer para você o vestido*
 mais bonito...
+
 {E5E9} EVENTO
 Como sou boba! Eu não sei fazer um*
 vestido desse jeito!
+
 {E5E4} EVENTO
 
 
@@ -12120,16 +12668,19 @@ vestido desse jeito!
 Ei, você!*
 Eu estava pensando justamente*
 em você!
+
 {E5E9} EVENTO
 Sabe, tem um jovem que eu conheço*
 que seria perfeito para você.*
 Vou apresentá-lo!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Isso não é necessário...
+
 {E5E4} EVENTO
 
 {E70E} Irina
@@ -12138,23 +12689,28 @@ Isso não é necessário...
 Do que está falando?*
 Não me diga que algum homem já te*
 dominou em suas garras...
+
 {E5E9} EVENTO
 Homens são mesmo umas feras, sabia?*
 Especialmente aqueles que andam*
 por aí, uivando para a Lua.
+
 {E5E9} EVENTO
 Eles não me deixam dormir.*
 Você poderia se livrar de,*
 digamos, 10 deles?
+
 {E5E9} EVENTO
 É mesmo? Você faria isso por mim?*
 Muito obrigada! Te devo essa.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 ... Sem comentários.
+
 {E5E4} EVENTO
 
 
@@ -12166,12 +12722,14 @@ Muito obrigada! Te devo essa.
 {E30E} AVATAR
 Ei, espere. Não saia.*
 Um momento por favor...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 ... O que foi?
+
 {E5E4} EVENTO
 
 {E704} Jacob
@@ -12180,8 +12738,10 @@ Um momento por favor...
 Bom, eu não tenho tantos clientes*
 para todo esse estoque, mas você*
 continua a me deixar na ativa...
+
 {E5E9} EVENTO
 Tome, fiz um desses para você.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -12190,6 +12750,7 @@ Tome, fiz um desses para você.
 
 {E300} AVATAR
 Um Cartão Vip?
+
 {E5E4} EVENTO
 
 {E704} Jacob
@@ -12198,14 +12759,17 @@ Um Cartão Vip?
 Isso significa que você é freguesa fiel.*
 Te dá direito a alguns descontos e*
 coisas assim. Bacana, não é?
+
 {E5E9} EVENTO
 Mas não diga isso aos outros.*
 Senão, todo mundo iria querer*
 um desses e...
+
 {E5E9} EVENTO
 Desse jeito eu iria à falência.*
 Bom, eu agradeço pela sua*
 preferência. Volte sempre!
+
 {E5E4} EVENTO
 
 
@@ -12216,6 +12780,7 @@ preferência. Volte sempre!
 
 {E311} AVATAR
 ... Muito obrigado.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -12223,6 +12788,7 @@ preferência. Volte sempre!
 {E300} AVATAR
 O homem que o aprisionou disse*
 algo?
+
 {E5E4} EVENTO
 
 {E707} Eugen
@@ -12231,16 +12797,19 @@ algo?
 Não me recordo de ouvir a voz dele,*
 mas vi seus olhos. Posso lhe*
 afirmar que ele estava determinado.
+
 {E5E9} EVENTO
 Porém, se ele tinha um propósito*
 bom ou ruim, isso eu não consigo*
 distinguir.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Entendo.
+
 {E5E4} EVENTO
 
 {E707} Eugen
@@ -12249,12 +12818,14 @@ Entendo.
 Vou retornar à vila. Estou*
 preocupado com o Padre Nikolai.*
 E quanto a você...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
-Quanto a eu, o quê?
+Quanto a mim, o quê?
+
 {E5E4} EVENTO
 
 {E707} Eugen
@@ -12262,16 +12833,19 @@ Quanto a eu, o quê?
 {E311} AVATAR
 Como consegue andar por aí com*
 uma armadura frágil dessas?
+
 {E5E9} EVENTO
 Venha me visitar lá na vila.*
 Vou forjar armaduras melhores*
 para você.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Agradeço sua atenção.
+
 {E5E4} EVENTO
 
 
@@ -12284,29 +12858,36 @@ Agradeço sua atenção.
 Bem-vinda! Estava esperando por*
 você o dia todo, só estalando*
 os meus dedos. A-ham!
+
 {E5E9} EVENTO
 Eu adoraria cozinhar para você,*
 mas preciso de sal.*
 O sal é muito importante.
+
 {E5E9} EVENTO
 As pessoas brigam contigo se você*
 se esquece de botar sal na comida.*
 E brigam muito mesmo...
+
 {E5E9} EVENTO
 Ahn, onde eu estava mesmo? Lembrei!*
 Preciso de sal. Basta trazer uma*
 [Pedra de Sal] que eu faço o resto.
+
 {E5E9} EVENTO
 Por que não vou buscar eu mesmo?*
 Porque sou o mestre cuca.
+
 {E5E9} EVENTO
 Por que você é que tem que ir*
 buscar? Porque você não é uma*
 mestre cuca. É assim que funciona.
+
 {E5E9} EVENTO
 Então, mãos à obra.*
 Minha cozinha será desperdiçada*
 sem você para me ajudar!
+
 {E5E4} EVENTO
 
 
@@ -12317,6 +12898,7 @@ sem você para me ajudar!
 
 {E300} AVATAR
 Um glifo de rapieira?
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -12325,41 +12907,49 @@ Um glifo de rapieira?
 Justamente. E agora você sabe:*
 Absorva um glifo para descobrir*
 o seu tipo.
+
 {E5E9} EVENTO
 Este é o seu dom.*
 Unico e exclusivamente seu.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Como quiser, senhor.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
 
 {E30A} AVATAR
 ......
+
 {E5E9} EVENTO
 
 {E30B} AVATAR
 Infelizmente terei que lhe ensinar*
 o básico outra vez...
+
 {E5E9} EVENTO
 Uma pena que isso tinha de acontecer*
 justo agora.
+
 {E5E9} EVENTO
 
 {E30A} AVATAR
 Mas de qualquer forma, nosso tempo*
 está minguando.*
 Adiante...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Como quiser, senhor.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -12367,6 +12957,7 @@ Como quiser, senhor.
 {E30A} AVATAR
 Direcione o poder desse glifo*
 em seus braços.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -12375,12 +12966,14 @@ em seus braços.
 &Abra o menu com [START],*
 
 {E5E9} EVENTO
-selecione [Glifo] para equipar glifos*
-no braço esquerdo, [
+selecione [Glifos] para equipar glifos no*
+braço esquerdo, [
 {F0}
-], e no direito, [
+],*
+e no direito, [
 {EF}
 ].
+
 {E5E4} EVENTO
 
 {E8}
@@ -12395,12 +12988,14 @@ no braço esquerdo, [
 Ah, então já acabou?*
 Bem, é um tanto decepcionante,*
 não acha?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Decepcionante?
+
 {E5E4} EVENTO
 
 {E70F} Daniela
@@ -12409,24 +13004,30 @@ Decepcionante?
 Você não é o garoto maroto*
 daquela vez.*
 Sua voz é diferente.
+
 {E5E9} EVENTO
 Você é como uma boneca: é bela,*
 mas falta alguma coisa...*
 Me diga, aquele homem vai voltar?
+
 {E5E9} EVENTO
 Eu tinha prometido fazer um bolo*
 para ele...*
 Ah, diga que o estou aguardando.
+
 {E5E9} EVENTO
 Ah sim, eu me chamo Daniela.*
 Bonito nome, não é?*
 Foi a tia Michelle quem me batizou.
+
 {E5E9} EVENTO
 Meu bem, vou para casa.
+
 {E5E9} EVENTO
 Não se preocupe comigo. Drácula*
 jamais se interessaria por sangue*
 seco como o meu...
+
 {E5E4} EVENTO
 
 
@@ -12438,18 +13039,22 @@ seco como o meu...
 {E312} AVATAR
 Ah, obrigado! Você trouxe o*
 [Peixe Cru].
+
 {E5E9} EVENTO
 Vejamos, hmm... As presas...*
 E as coisinhas nas barbatanas...*
 É de [Peixe-Assassino]!
+
 {E5E9} EVENTO
 Agora é hora de pôr à prova o meu*
 instinto de mestre cuca, forjado*
 pelas chamas de muitas cozinhas...
+
 {E5E9} EVENTO
 E voilà!*
 [Churrasco de Peixe].*
 Bon appetit!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -12460,14 +13065,17 @@ Bon appetit!
 Uau! Peixe bem grelhado!*
 ... Não? Digo, eu vou aceitar a sua*
 opinião sobre isso.
+
 {E5E9} EVENTO
 Não vou prová-lo. Meu paladar está*
 muito refinado. A última vez que*
 provei um peixe meu...
+
 {E5E9} EVENTO
 acabei desmaiando e deixei umas*
 pessoas muito bravas.*
 Nunca mais!
+
 {E5E4} EVENTO
 
 
@@ -12478,16 +13086,19 @@ Nunca mais!
 
 {E310} AVATAR
 Está pronto. Foi confeccionado com*
-todas as joias que você já me*
+todas as jóias que você já me*
 trouxe.
+
 {E5E9} EVENTO
 Agora só falta pegar a pedra de*
 [Alexandrita] que você trouxe,*
 colocá-la bem no centro e...!
+
 {E5E9} EVENTO
 Minha obra-prima! A [Coroa Real]*
 está completa!*
 E então? Emocionante, não é?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -12496,6 +13107,7 @@ E então? Emocionante, não é?
 Eu perdi minhas emoções.*
 Um coração ausente não consegue se*
 agitar.
+
 {E5E4} EVENTO
 
 {E706} Laura
@@ -12503,18 +13115,22 @@ agitar.
 {E310} AVATAR
 Entendo...*
 Acho que não consegui.
+
 {E5E9} EVENTO
 Mas eu consegui chegar ATÉ AQUI.*
 Você acaba de elevar o nível dos*
 meus trabalhos.
+
 {E5E9} EVENTO
 E toda essa conversa sobre os seus*
 sentimentos acabou me fazendo*
 pensar sobre os meus...
+
 {E5E9} EVENTO
 Pode ficar com esta*
 [Coroa Real]?*
 Encare isso como uma lembrança.
+
 {E5E4} EVENTO
 
 
@@ -12527,62 +13143,75 @@ Encare isso como uma lembrança.
 Eu finalmente percebi por que os*
 restaurantes em que trabalhei foram*
 à falência.
+
 {E5E9} EVENTO
 E eu acho que sei por que você é*
 minha única freguesa.
+
 {E5E9} EVENTO
 Sinta-se livre para discordar, mas*
 eu acho que é porque a minha comida*
 tem um gosto horrível!
+
 {E5E9} EVENTO
 Sabe, eu descobri que todos possuem*
 gostos diferentes, então por que tentar*
 fazer algo saboroso?
+
 {E5E9} EVENTO
 Não dá pra agradar a gregos e troianos*
 ao mesmo tempo, certo?*
 Errado.
+
 {E5E9} EVENTO
 Acho que sei como virar a mesa.*
 Traga uma bisteca de [Carne Saborosa].
+
 {E5E9} EVENTO
 Não tem como errar com isso!*
 Deve ter um motivo forte dessa*
 carne ser chamada de "saborosa"!
+
 {E5E9} EVENTO
 Então traga para mim, por favor!
+
 {E5E4} EVENTO
 
 
 ---------------------------------------------
 
 ! 
-{E710} Dracula
+{E710} Drácula
 
 {E31A} AVATAR
 Donzela tão amável...*
 É à tí que devo este imenso prazer?
+
 {E5E9} EVENTO
 Diga-me o teu desejo, donzela.*
 Procuras pela vida eterna?*
 Um lugar ao meu lado?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Não sou sua benfeitora.
+
 {E5E4} EVENTO
 
-{E710} Dracula
+{E710} Drácula
 
 {E31A} AVATAR
 Não?*
 Então por favor...*
 Fale-me sobre tua pessoa.
+
 {E5E9} EVENTO
 Já deves ter percebido que*
 minha companhia sucede um preço.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -12590,19 +13219,23 @@ minha companhia sucede um preço.
 {E301} AVATAR
 Eu sou a lâmina que exila todo o*
 mal, e eu vim para aniquilá-lo.
+
 {E5E9} EVENTO
 A hora de sua morte chegou,*
 Senhor das Trevas. Morra, [Drácula]!
+
 {E5E4} EVENTO
 
-{E710} Dracula
+{E710} Drácula
 
 {E31A} AVATAR
 Ha ha ha ha ha ha!*
 Mulher deveras encantadora!
+
 {E5E9} EVENTO
 Vinde a mim, menina.*
 Já não danço há eras!
+
 {E5E4} EVENTO
 
 
@@ -12614,6 +13247,7 @@ Já não danço há eras!
 {E300} AVATAR
 Isso é mesmo [Dominus].*
 O que planeja?
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -12622,6 +13256,7 @@ O que planeja?
 Já era de se esperar...*
 Com todo este poder, é impossível*
 ocultar sua origem.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -12629,6 +13264,7 @@ ocultar sua origem.
 {E300} AVATAR
 A origem de [Dominus]?*
 O que isso significa?
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -12636,6 +13272,7 @@ O que isso significa?
 {E305} AVATAR
 O que significa, minha querida, é que*
 eu estava certo o tempo todo.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -12643,6 +13280,7 @@ eu estava certo o tempo todo.
 {E300} AVATAR
 Esta é a sua última chance: Volte*
 para Eclésia.
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -12651,9 +13289,11 @@ para Eclésia.
 Já conversamos sobre isso...*
 O meu lugar não é mais como*
 serviçal daquele velho.
+
 {E5E9} EVENTO
 Eu tenho um papel,*
 e vou cumpri-lo.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -12664,8 +13304,10 @@ e vou cumpri-lo.
 Como ele foi capaz de criar um*
 glifo sem conjurá-lo?*
 Achei que só eu podia...
+
 {E5E9} EVENTO
 O mestre Barlowe precisa saber disso.
+
 {E5E4} EVENTO
 
 
@@ -12678,10 +13320,12 @@ O mestre Barlowe precisa saber disso.
 Ouça. O meu comportamento tem*
 sido um tanto ríspido desde,*
 sabe, "aquele incidente".
+
 {E5E9} EVENTO
 Espero não ter dito nada que...*
 desperte sua ira.*
 É isso que eu quero dizer, mesmo.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -12689,6 +13333,7 @@ desperte sua ira.*
 {E300} AVATAR
 Está tudo bem.*
 Palavras não me afetam.
+
 {E5E4} EVENTO
 
 {E705} Abram
@@ -12696,25 +13341,31 @@ Palavras não me afetam.
 {E30F} AVATAR
 Muito bem! Para finalizar, vou*
 te dar um medicamento especial!
+
 {E5E9} EVENTO
 ... É tão especial que nem tenho*
 os ingredientes: [Sálvia] e*
 [Carne de Sereia].
+
 {E5E9} EVENTO
 Mas você pode encontrá-los!*
 ... Ah, sim, você PODE encontrá-los.
+
 {E5E9} EVENTO
 E aí vou preparar um medicamento*
 TÃO bom que vai curar seus*
 FERIMENTOS TERRÍVEIS na hora.
+
 {E5E9} EVENTO
 O que acha disso?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 ......
+
 {E5E4} EVENTO
 
 {E705} Abram
@@ -12722,6 +13373,7 @@ O que acha disso?
 {E30F} AVATAR
 Isso é um sim, não é?*
 Conto com você.
+
 {E5E4} EVENTO
 
 
@@ -12733,6 +13385,7 @@ Conto com você.
 {E30B} AVATAR
 Ele partiu [Dominus] e formou um*
 glifo...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -12740,6 +13393,7 @@ glifo...
 {E300} AVATAR
 Sim, mas em vez de usar, ele me*
 entregou.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -12748,15 +13402,18 @@ entregou.
 Entendo. Eu o subestimei. Para chegar*
 tão longe assim em questão de tão*
 pouco tempo... como pôde?
+
 {E5E9} EVENTO
 Mas ele te entregou...*
 De livre e espontânea vontade?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Sim, senhor.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -12764,6 +13421,7 @@ Sim, senhor.
 {E30B} AVATAR
 Qual plano será que ele está*
 tramando?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -12771,6 +13429,7 @@ tramando?
 {E300} AVATAR
 Ele disse que... tinha um papel a*
 desempenhar.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -12779,12 +13438,15 @@ desempenhar.
 ... De qualquer forma, agora uma*
 parte de [Dominus] está segura*
 conosco.
+
 {E5E9} EVENTO
 Nossa missão continua como era*
 antes.
+
 {E5E9} EVENTO
 Uma parte foi encontrada. As outras*
 precisam ser recuperadas.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -12793,6 +13455,7 @@ precisam ser recuperadas.
 Deixe tudo comigo.*
 ... Ainda devem haver pistas na*
 [Ilha da Prisão].
+
 {E5E4} EVENTO
 
 
@@ -12805,18 +13468,22 @@ Deixe tudo comigo.*
 Que estranho. Acabo de ter a*
 impressão de que você já estava*
 chegando.
+
 {E5E9} EVENTO
 Por que será?*
 Talvez exista a chance de sermos*
 parentes distantes...
+
 {E5E9} EVENTO
 Onde você nasceu?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Perdão, não me recordo disso.
+
 {E5E4} EVENTO
 
 {E70F} Daniela
@@ -12825,24 +13492,29 @@ Perdão, não me recordo disso.
 Ah, tudo bem.*
 O local de nascimento não é tão*
 importante assim.
+
 {E5E9} EVENTO
 O que importa é o local onde você*
 morre. Quero morrer perto das*
 cataratas no [Desfiladeiro Tristis].
+
 {E5E9} EVENTO
 O vovô e eu costumávamos treinar por*
 lá. Agora é naquele local onde ele*
 descansa...
+
 {E5E9} EVENTO
 Ah, pode fazer uma gravura das*
 cataratas? Você certamente faria*
 um belo trabalho.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Outro desenho?
+
 {E5E4} EVENTO
 
 {E70F} Daniela
@@ -12851,6 +13523,7 @@ Outro desenho?
 Por favor. Um desenho das cataratas*
 no [Desfiladeiro Tristis].*
 Estarei esperando.
+
 {E5E4} EVENTO
 
 
@@ -12863,12 +13536,14 @@ Estarei esperando.
 Rá!*
 Vim para cá por intuição,*
 e eu estava certo!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Hmm?
+
 {E5E4} EVENTO
 
 {E709} Marcel
@@ -12876,15 +13551,18 @@ Hmm?
 {E313} AVATAR
 Bruxas e magos, magias estranhas,*
 hordas de monstros...
+
 {E5E9} EVENTO
 Marcel, meu caro, bem-vindo à*
 Primeira Página!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 ...... Hmm?
+
 {E5E4} EVENTO
 
 {E709} Marcel
@@ -12893,16 +13571,19 @@ Primeira Página!
 Ah, sim, onde está a minha educação?*
 Prazer, Marcel.*
 Sou um jornalista.
+
 {E5E9} EVENTO
 Achei que tinha um furo jornalístico*
 por aqui, mas puxa vida, este lugar*
 está cheio deles!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 ......
+
 {E5E4} EVENTO
 
 {E709} Marcel
@@ -12911,15 +13592,19 @@ está cheio deles!
 Você é um exemplo!*
 Uma bela bruxa. Mas por favor*
 não encare isso como uma ofensa...
+
 {E5E9} EVENTO
 Tenho que confessar, você é*
 deslumbrante!
+
 {E5E9} EVENTO
 "Bela Bruxa Invade Vilarejo Pacato!"*
 Pronto. Perfeito para um artigo.
+
 {E5E9} EVENTO
 Bom, é melhor eu cair fora.*
 Estarei lá pela vila!
+
 {E5E4} EVENTO
 
 
@@ -12932,10 +13617,12 @@ Estarei lá pela vila!
 Ouça, eu... Não tem muito o que eu*
 possa fazer para agradecê-la, mas*
 por favor!
+
 {E5E9} EVENTO
 Por favor, deixe que eu*
 lhe faça um vestido.*
 ... Está bom para você?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -12943,6 +13630,7 @@ lhe faça um vestido.*
 {E300} AVATAR
 Obrigada, mas eu não preciso de um*
 vestido.
+
 {E5E4} EVENTO
 
 {E70D} Monica
@@ -12950,6 +13638,7 @@ vestido.
 {E317} AVATAR
 Ah. Bem... você tem razão. Os meus*
 vestidos não seriam...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -12957,6 +13646,7 @@ vestidos não seriam...
 {E300} AVATAR
 Você não entendeu.*
 Vestidos não combinam comigo.
+
 {E5E4} EVENTO
 
 {E70D} Monica
@@ -12965,22 +13655,27 @@ Vestidos não combinam comigo.
 Bem... Ahn, espere!*
 Aposto que eu CONSIGO fazer um*
 vestido que lhe cairia bem.
+
 {E5E9} EVENTO
 Vejamos... Lã!*
 É disso que precisamos.*
 Onde está a lã?
+
 {E5E9} EVENTO
 Ah não!*
 Acabou o carretel.*
 Isso sempre acontece comigo...
+
 {E5E9} EVENTO
 E eu preciso de pelo menos*
 5 [Carretéis de Lã] para fazer um*
 vestido!
+
 {E5E9} EVENTO
 Puxa vida... talvez você não*
 devesse nem ter se preocupado em*
 me salvar...
+
 {E5E4} EVENTO
 
 
@@ -12991,23 +13686,28 @@ me salvar...
 
 {E319} AVATAR
 Ah, você desenhou para mim.
+
 {E5E9} EVENTO
 Desenhos são muito belos. O mesmo*
 cenário pode ser completamente*
 diferente, dependendo do artista.
+
 {E5E9} EVENTO
 Nos dias de hoje eles tem aquelas*
 fotografias. O jornalista me mostrou*
 uma delas.
+
 {E5E9} EVENTO
 Mas eu prefiro muito mais as*
 gravuras, porque você as desenhou.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 ......
+
 {E5E4} EVENTO
 
 {E70F} Daniela
@@ -13016,22 +13716,28 @@ gravuras, porque você as desenhou.
 Este é o meu agradecimento pela*
 gravura. Por favor, guarde com*
 carinho.
+
 {E5E9} EVENTO
 Espero que seja o suficiente por*
 tudo o que você me trouxe.
+
 {E5E9} EVENTO
 Nós perdemos muitas coisas, mas...*
 às vezes nós ganhamos coisas*
 também, sabia?
+
 {E5E9} EVENTO
 Você e eu, por exemplo.*
 Nós ganhamos uma nova amizade.
+
 {E5E9} EVENTO
 Isso não tem preço, então vamos nos*
 esforçar para não perdê-la.
+
 {E5E9} EVENTO
 Volte sempre, Shanoa.*
 Você sempre será bem-vinda.
+
 {E5E4} EVENTO
 
 
@@ -13042,18 +13748,22 @@ Você sempre será bem-vinda.
 
 {E313} AVATAR
 Eis aqui uma pergunta:
+
 {E5E9} EVENTO
 Por que o editor cancelou*
 TOTALMENTE aquela matéria minha*
 sobre você?
+
 {E5E9} EVENTO
 ... Que tipo de feitiço você usou?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 ... Não fiz nada.
+
 {E5E4} EVENTO
 
 {E709} Marcel
@@ -13062,15 +13772,18 @@ sobre você?
 Bom, isso não é da minha conta...*
 Agora, mudando completamente de*
 assunto...
+
 {E5E9} EVENTO
 O que você acha de você e eu*
 formarmos um pequeno negócio?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Que tipo de negócio?
+
 {E5E4} EVENTO
 
 {E709} Marcel
@@ -13078,9 +13791,11 @@ Que tipo de negócio?
 {E313} AVATAR
 Eu deixo esse seu feitiço de lado,*
 esqueço da minha matéria...
+
 {E5E9} EVENTO
 E aí você me arruma algumas fotos*
 para outra matéria?
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13089,6 +13804,7 @@ para outra matéria?
 
 {E300} AVATAR
 Tudo bem.
+
 {E5E4} EVENTO
 
 {E709} Marcel
@@ -13096,17 +13812,21 @@ Tudo bem.
 {E313} AVATAR
 Você já ouviu falar do*
 [Chupa-Cabra]?
+
 {E5E9} EVENTO
 É uma fera cabeluda capaz de*
 chupar todo o sangue de suas*
 entranhas!
+
 {E5E9} EVENTO
 Procure-o e consiga uma ou duas*
 fotos pra mim.
+
 {E5E9} EVENTO
 Mas tome cuidado: ele se lançará*
 para cima de você com muita*
 facilidade!
+
 {E5E4} EVENTO
 
 
@@ -13119,6 +13839,7 @@ facilidade!
 Está ficando melhor nisso.*
 Impressionante, me seguir*
 até aqui e tudo mais.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13127,6 +13848,7 @@ até aqui e tudo mais.
 Até mesmo um homem cego poderia*
 tê-lo encontrado.*
 Você deixou rastros...
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -13134,16 +13856,19 @@ Você deixou rastros...
 {E305} AVATAR
 Assim como quando éramos crianças e*
 brincávamos de esconde-esconde...
+
 {E5E9} EVENTO
 Quando você começava a chorar, eu*
 me sentia culpado e deixava você*
 me encontrar.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Aonde quer chegar com isso?
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -13151,6 +13876,7 @@ Aonde quer chegar com isso?
 {E305} AVATAR
 Por que não tenta chorar agora?*
 Então talvez eu deixe você me pegar.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13159,6 +13885,7 @@ Então talvez eu deixe você me pegar.
 ... Chorar? Você sabe que eu não*
 consigo. E não me lembro de nada*
 disso.
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -13166,9 +13893,11 @@ disso.
 {E305} AVATAR
 Perdão, Shanoa.*
 Sem lágrimas, nada feito...
+
 {E5E9} EVENTO
 Mesmo assim, seria vergonhoso*
 deixá-la de mãos vazias.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13178,15 +13907,18 @@ deixá-la de mãos vazias.
 {E300} AVATAR
 Outro glifo...*
 O que você está tramando?
+
 {E5E4} EVENTO
 
 {E701} Albus
 
 {E305} AVATAR
 Apenas aceite. É um presente.
+
 {E5E9} EVENTO
 Além do mais, foi por causa disso*
 que você veio até aqui.
+
 {E5E4} EVENTO
 
 
@@ -13199,6 +13931,7 @@ que você veio até aqui.
 Ah, você veio. Estou tão feliz.*
 Estava prestes a preparar um bolo.*
 Sinta-se em casa.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13214,9 +13947,11 @@ Obrigada, mas eu...*
 O vovô e eu sempre fazíamos*
 bolo juntos.*
 Aquele homem adorava doces.
+
 {E5E9} EVENTO
 Especialmente durante uma boa e*
 velha caça aos monstros.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13224,6 +13959,7 @@ velha caça aos monstros.
 {E300} AVATAR
 Caça aos monstros?*
 Quer dizer que-!?
+
 {E5E4} EVENTO
 
 {E70F} Daniela
@@ -13231,10 +13967,12 @@ Quer dizer que-!?
 {E319} AVATAR
 Nada melhor que a vista do topo do*
 [Farol] após uma épica batalha.
+
 {E5E9} EVENTO
 Eu adoraria ver aquele horizonte*
 de novo...*
 Me diga, você sabe desenhar?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13242,6 +13980,7 @@ Me diga, você sabe desenhar?
 {E300} AVATAR
 Desenhar...? Você quer dizer, do*
 [Farol]?
+
 {E5E4} EVENTO
 
 {E70F} Daniela
@@ -13250,10 +13989,12 @@ Desenhar...? Você quer dizer, do*
 Vou te dar este Livro de Arte.*
 Quando você chegar ao topo, desenhe*
 a vista para mim.
+
 {E5E9} EVENTO
 Ainda vai demorar um pouco até que o*
 bolo termine de assar, então dá*
 tempo de você voltar!
+
 {E5E4} EVENTO
 
 
@@ -13265,12 +14006,14 @@ tempo de você voltar!
 {E30F} AVATAR
 É... é VOCÊ!*
 Enfim apareceu!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Numa péssima hora, presumo.
+
 {E5E4} EVENTO
 
 {E705} Abram
@@ -13278,16 +14021,19 @@ Numa péssima hora, presumo.
 {E30F} AVATAR
 Pessima hora? Não.*
 Mas INCONVENIENTE!
+
 {E5E9} EVENTO
 Eu lhe prepararia um agradecimento*
 melhor, mas agora não é uma boa*
 hora...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Então qual é o problema?
+
 {E5E4} EVENTO
 
 {E705} Abram
@@ -13296,6 +14042,7 @@ Então qual é o problema?
 Foi ELE! Aquele cara que nos*
 sequestrou! Foi ele quem levou*
 todo material que eu tinha! Aposto.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13303,6 +14050,7 @@ todo material que eu tinha! Aposto.
 {E300} AVATAR
 Albus...? Será que ele vai fazer*
 alguma experiência com isso?
+
 {E5E4} EVENTO
 
 {E705} Abram
@@ -13311,10 +14059,12 @@ alguma experiência com isso?
 Sem dúvida! Então VÁ LOGO e*
 recupere meus materiais!*
 Estou mandando!
+
 {E5E9} EVENTO
 Então, e SÓ ENTÃO, vou confiar em*
 você o bastante pra te agradecer*
 por salvar minha pele!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13330,10 +14080,12 @@ por salvar minha pele!
 SÁLVIA! Preciso de uma erva*
 de [Sálvia]. Vá encontrá-la*
 e traga aqui!
+
 {E5E9} EVENTO
 E então veremos quem confia*
 em quem, né?*
 Ha ha ha!
+
 {E5E4} EVENTO
 
 
@@ -13345,6 +14097,7 @@ Ha ha ha!
 {E305} AVATAR
 Shanoa...*
 Você sabe o que é [Dominus]?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13352,36 +14105,44 @@ Você sabe o que é [Dominus]?
 {E300} AVATAR
 Claro. É o glifo definitivo*
 que pode destruir [Drácula].
+
 {E5E4} EVENTO
 
 {E701} Albus
 
 {E305} AVATAR
 Exato. Mas só em parte.
+
 {E5E9} EVENTO
 Pense sobre isso: de onde vem*
 o poder do glifo?
+
 {E5E9} EVENTO
 Afinal, ele não veio do nada.
+
 {E5E9} EVENTO
 O que você acha que Barlowe utilizou*
 para criar seu valioso [Dominus]?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Hunf... O que ele usou?
+
 {E5E4} EVENTO
 
 {E701} Albus
 
 {E306} AVATAR
 Ele usou [Drácula], Shanoa.
+
 {E5E9} EVENTO
 [Dominus] é feito de seus restos.*
 Aquele é o próprio poder DELE.*
 Nada menos.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13389,6 +14150,7 @@ Nada menos.
 {E300} AVATAR
 [Dominus] é...?*
 Não pode ser.
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -13396,9 +14158,11 @@ Não pode ser.
 {E305} AVATAR
 Pergunte ao velho se você acha que eu*
 estou mentindo.
+
 {E5E9} EVENTO
 Mas seja rápida.*
 Estou quase acabando com tudo isso.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13407,9 +14171,11 @@ Estou quase acabando com tudo isso.
 
 {E300} AVATAR
 Mestre Barlowe...
+
 {E5E9} EVENTO
 Será que Albus está dizendo a verdade?*
 Eu preciso descobrir.
+
 {E5E4} EVENTO
 
 
@@ -13422,10 +14188,12 @@ Eu preciso descobrir.
 Tenha calma, Shanoa.*
 Já basta de intromissões.*
 A propósito...
+
 {E5E9} EVENTO
 Sobre as partes de [Dominus], já é*
 hora de explicar por que lhe*
 entreguei.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13436,6 +14204,7 @@ entreguei.
 Gaaaaah!!*
 Funciona...*
 ESTOU SENTINDO!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13444,10 +14213,12 @@ ESTOU SENTINDO!
 Mas Barlowe disse que você não era*
 capaz de suster os glifos...*
 Você...
+
 {E5E9} EVENTO
 Você deixou que eu absorvesse os*
 outros dois só para ver como*
 isso acontece!
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -13456,6 +14227,7 @@ isso acontece!
 Rá! Como vê, eu-...*
 Urgh... Hnng!*
 Gaaaaaaaaahh!!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13464,6 +14236,7 @@ Gaaaaaaaaahh!!
 
 {E301} AVATAR
 ... O que está havendo?
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -13471,8 +14244,10 @@ Gaaaaaaaaahh!!
 {E305} AVATAR
 ... E agora...*
 O meu desejo será...
+
 {E5E9} EVENTO
 Shanoa, eu-...
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13482,6 +14257,7 @@ Shanoa, eu-...
 {E306} AVATAR
 Urgh... O quê!?*
 N-Não pode ser!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13491,11 +14267,13 @@ N-Não pode ser!
 {E306} AVATAR
 Não... Eu já cheguei até aqui...*
 Eu NÃO serei possuído!
+
 {E5E9} EVENTO
 
 {E307} AVATAR
 ... Vamos decidir isso depois,*
 Shanoa.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13504,6 +14282,7 @@ Shanoa.
 
 {E303} AVATAR
 Albus, espere!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13514,6 +14293,7 @@ Albus, espere!
 Isso é muito ruim...*
 O mestre Barlowe deve saber o que*
 fazer.
+
 {E5E4} EVENTO
 
 
@@ -13526,6 +14306,7 @@ fazer.
 Eu estava admirando os desenhos*
 que você fez para mim.*
 Como são bonitos.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13533,6 +14314,7 @@ Como são bonitos.
 {E300} AVATAR
 Eu não compreendo...*
 Eu... eu perdi minhas emoções.
+
 {E5E4} EVENTO
 
 {E70F} Daniela
@@ -13540,30 +14322,38 @@ Eu... eu perdi minhas emoções.
 {E319} AVATAR
 É mesmo?*
 Eu nunca percebi isso.
+
 {E5E9} EVENTO
 Mas é verdade. Se uma pessoa vive*
 muito, ela tende a perder todo*
 tipo de coisa.
+
 {E5E9} EVENTO
 Eu perdi o meu chapéu na semana*
 passada. E o que foi que perdi*
 antes disso? Já perdi tanta coisa.
+
 {E5E9} EVENTO
 O mais triste foi quando perdi o*
 vovô. Eu chorei tanto... até que*
 acabassem minhas lágrimas.
+
 {E5E9} EVENTO
 Me diga, não poderia desenhar a*
 Igreja onde eu perdi o vovô?
+
 {E5E9} EVENTO
 Ela fica no [Pico Abandonado],*
 e lá existe uma pequena cruz.
+
 {E5E9} EVENTO
 É triste, mas quero ter certeza*
 que nunca vou me esquecer.
+
 {E5E9} EVENTO
 Se você desenhar, poderei lembrar*
 tanto de você quanto do vovô.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13571,6 +14361,7 @@ tanto de você quanto do vovô.
 {E300} AVATAR
 A igreja que fica no*
 [Pico Abandonado]...
+
 {E5E4} EVENTO
 
 
@@ -13581,12 +14372,14 @@ A igreja que fica no*
 
 {E30D} AVATAR
 Enfim!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Quem fez isso com você?
+
 {E5E4} EVENTO
 
 {E703} Nikolai
@@ -13594,12 +14387,14 @@ Quem fez isso com você?
 {E30D} AVATAR
 Você precisa ajudar os outros!*
 Todos os aldeões foram raptados!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Por quem?
+
 {E5E4} EVENTO
 
 {E703} Nikolai
@@ -13607,10 +14402,12 @@ Por quem?
 {E30D} AVATAR
 Aquele homem! Ele levou embora os*
 outros doze e então me aprisionou.
+
 {E5E9} EVENTO
 ... Mas o Senhor deve ter te*
 mandado para nos socorrer.*
 Por favor, salve os aldeões!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13618,6 +14415,7 @@ Por favor, salve os aldeões!
 {E300} AVATAR
 Pode me dizer para onde esse homem*
 foi?
+
 {E5E4} EVENTO
 
 {E703} Nikolai
@@ -13625,12 +14423,14 @@ foi?
 {E30D} AVATAR
 Se eu... não estiver enganado, ele*
 disse algo sobre a [Ilha da Prisão].
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Entendo...
+
 {E5E4} EVENTO
 
 {E703} Nikolai
@@ -13639,16 +14439,19 @@ Entendo...
 Há muito, os criminosos foram*
 desterrados a esse local esquecido*
 pelo tempo...
+
 {E5E9} EVENTO
 Alguns dizem que suas almas ainda*
 vagueiam pela ilha, que permanece*
 amaldiçoada.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Onde fica?
+
 {E5E4} EVENTO
 
 {E703} Nikolai
@@ -13657,6 +14460,7 @@ Onde fica?
 Você consegue chegar até lá através*
 da [Floresta Ruvas], a sudeste daqui.*
 Por favor, salve-os!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13664,9 +14468,11 @@ Por favor, salve-os!
 {E300} AVATAR
 Será que Albus levou mesmo os*
 aldeões até a [Ilha da Prisão]?
+
 {E5E9} EVENTO
 ... A que propósito ele teria os*
 levado?
+
 {E5E4} EVENTO
 
 
@@ -13678,6 +14484,7 @@ levado?
 {E305} AVATAR
 Shanoa!*
 Ainda está servindo àquele velho?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13685,32 +14492,39 @@ Ainda está servindo àquele velho?
 {E300} AVATAR
 Você...*
 Eu já o vi antes.
+
 {E5E9} EVENTO
 Seu nome é Albus, não é?
+
 {E5E4} EVENTO
 
 {E701} Albus
 
 {E306} AVATAR
 Pressupõe-se que sim...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Por ordens de meu mestre...
+
 {E5E9} EVENTO
 Preciso recuperar o glifo [Dominus]*
 e levar você de volta para casa.
+
 {E5E4} EVENTO
 
 {E701} Albus
 
 {E305} AVATAR
 Casa?
+
 {E5E9} EVENTO
 Eu já não tenho mais casa. O velho*
 sabe muito bem disso.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13719,6 +14533,7 @@ sabe muito bem disso.
 
 {E301} AVATAR
 Isso não foi um pedido gentil.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13729,9 +14544,11 @@ Isso não foi um pedido gentil.
 Interessante...*
 Me lembro que você era bem mais*
 graciosa que isso.
+
 {E5E9} EVENTO
 E você também esqueceu de suas*
 habilidades com os glifos.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13740,6 +14557,7 @@ habilidades com os glifos.
 
 {E300} AVATAR
 Eu esqueci graças a você.
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -13748,6 +14566,7 @@ Eu esqueci graças a você.
 Foi mesmo, é? Então diga por mim*
 estas palavras ao velho:*
 Eu nunca mais vou voltar.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13755,6 +14574,7 @@ Eu nunca mais vou voltar.
 {E300} AVATAR
 Você vai sim.*
 Pelas ordens do mestre Barlowe-...
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13763,6 +14583,7 @@ Pelas ordens do mestre Barlowe-...
 
 {E307} AVATAR
 Nunca mais diga esse nome!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13771,6 +14592,7 @@ Nunca mais diga esse nome!
 
 {E301} AVATAR
 Concentre-se, Shanoa...
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13780,6 +14602,7 @@ Concentre-se, Shanoa...
 {E305} AVATAR
 Bem, é melhor eu ir andando...*
 Até, Shanoa.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13789,6 +14612,7 @@ Até, Shanoa.
 {E300} AVATAR
 Humm...*
 Ele marcou uma vila neste mapa.
+
 {E5E4} EVENTO
 
 
@@ -13800,27 +14624,33 @@ Ele marcou uma vila neste mapa.
 {E30B} AVATAR
 Você disse que ele está com a*
 última parte dentro de si!?
+
 {E5E9} EVENTO
 Para ter feito algo tão diabólico*
 em tão pouco tempo...*
 Temo que seu gênio tenha se esmerado.
+
 {E5E9} EVENTO
 Presumimos equivocadamente que*
 apenas você poderia servir como*
 portadora de [Dominus]...
+
 {E5E9} EVENTO
 Mas acabamos deixando que ele se*
 aproveitasse disso. Ele observou o*
 modo como você recebeu os glifos...
+
 {E5E9} EVENTO
 Ao menos as duas primeiras partes*
 ainda estão conosco.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Exatamente.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -13828,6 +14658,7 @@ Exatamente.
 {E30A} AVATAR
 Sem dúvida alguma, ele as quer de*
 volta. Se nos aproveitarmos disso...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13836,6 +14667,7 @@ volta. Se nos aproveitarmos disso...
 Que escolha temos?*
 Alguém precisa pôr um fim nisso.*
 O senhor mesmo já disse.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -13843,23 +14675,28 @@ O senhor mesmo já disse.
 {E30A} AVATAR
 De fato, temo que é você quem tem*
 esse direito.
+
 {E5E9} EVENTO
 O poder de [Dominus] devora a mente*
 humana. Pobre Albus, mesmo ele não*
 pôde resistir à vontade de Drácula.
+
 {E5E9} EVENTO
 Ele não vai voltar a nós.*
 Não consegue mais.
+
 {E5E9} EVENTO
 
 {E30B} AVATAR
 Shanoa, liberte-o dessa angústia...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E301} AVATAR
 Sim, senhor.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -13868,9 +14705,11 @@ Sim, senhor.
 Sua trilha deve levar até além*
 do cemitério.*
 Vá.
+
 {E5E9} EVENTO
 Por tudo o que é sagrado, volte para*
 cá com vida.
+
 {E5E4} EVENTO
 
 
@@ -13882,6 +14721,7 @@ cá com vida.
 {E300} AVATAR
 Se é assim que tem que ser, então*
 vamos acabar logo com isso.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13890,8 +14730,10 @@ vamos acabar logo com isso.
 
 {E308} AVATAR
 Dominus é meu. Já esperei demais!
+
 {E5E9} EVENTO
 Entregue-me, Shanoa.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13899,15 +14741,18 @@ Entregue-me, Shanoa.
 {E300} AVATAR
 Foi por isso que traiu*
 o nosso mestre?
+
 {E5E9} EVENTO
 Você jogou fora o seu lar, a sua*
 vida, apenas para ser consumido por*
 toda essa escuridão?
+
 {E5E9} EVENTO
 
 {E301} AVATAR
 O que você queria com isso!?*
 Responda!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13918,15 +14763,18 @@ Responda!
 Shanoa...*
 O que eu-...!?*
 Gaaah!
+
 {E5E9} EVENTO
 Não, Shanoa... FUJA!*
 Você precisa fugir daqui! Agora!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 ... Albus?
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -13936,14 +14784,17 @@ Você precisa fugir daqui! Agora!
 {E308} AVATAR
 Fugir...? Que bem isso faria?*
 Ela não vai escapar de mim.
+
 {E5E9} EVENTO
 A humanidade é apenas um rebanho*
 destinado ao abate sob minhas ordens.*
 Eu sou o Conde Drácula!
+
 {E5E9} EVENTO
 Renda-se ao meu sustento,*
 humana fraca e imbecil!*
 Esta será a honra de sua vida!!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -13955,14 +14806,17 @@ Esta será a honra de sua vida!!
 Mesmo neste estado, sem qualquer*
 lembrança do homem que você foi,*
 sinto pena de você.
+
 {E5E9} EVENTO
 É minha obrigação livrá-lo deste*
 sofrimento, para garantir que sua*
 partida seja honrosa.
+
 {E5E9} EVENTO
 
 {E301} AVATAR
 Descanse em paz, Albus.
+
 {E5E4} EVENTO
 
 
@@ -14007,7 +14861,7 @@ Então foi quando Barlowe,*
 o líder de Eclésia,*
 finalmente descobriu algo*
 surpreendente, que é capaz*
-confrontar Drácula.*
+de confrontar Drácula.*
  *
  *
  *
@@ -14029,14 +14883,16 @@ confrontar Drácula.*
 {E706} Laura
 
 {E310} AVATAR
-Ah... você trouxe uma joia nova?*
+Ah... você trouxe uma jóia nova?*
 Deixe-me avaliá-la.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Por favor.
+
 {E5E4} EVENTO
 
 {E706} Laura
@@ -14045,12 +14901,14 @@ Por favor.
 ... Puxa vida, é um [Crisoberilo].*
 E ainda por cima tem uma cor muito*
 bonita. Um verdadeiro olho-de-gato!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Olho-de-gato?
+
 {E5E4} EVENTO
 
 {E706} Laura
@@ -14059,16 +14917,19 @@ Olho-de-gato?
 Tem um feixe de luz no meio que*
 lembra o olho de um gato.*
 Por isso o apelido.
+
 {E5E9} EVENTO
 Ah sim, Anna, a filha de Irina, tem*
 um gato. Você pode comparar esta*
-joia com os olhos dele, pra ver.
+jóia com os olhos dele, pra ver.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Fala do Tom?
+
 {E5E4} EVENTO
 
 {E706} Laura
@@ -14077,15 +14938,18 @@ Fala do Tom?
 Aquela garota é possuída com muita*
 facilidade. O seu gato, Tom,*
 aparentemente a protege.
+
 {E5E9} EVENTO
 Deve ser difícil pro coitado,*
 desesperado para salvar Anna.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Anna quer ajudar Tom com um amuleto.
+
 {E5E4} EVENTO
 
 {E706} Laura
@@ -14094,12 +14958,15 @@ Anna quer ajudar Tom com um amuleto.
 ...!*
 É isso!*
 Já sei!
+
 {E5E9} EVENTO
 Podemos deixar o [Crisoberilo] com*
 aquelas crianças...*
 Isso espantaria os maus espíritos!
+
 {E5E9} EVENTO
 Vou fazer uma coleira de amuleto.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -14107,6 +14974,7 @@ Vou fazer uma coleira de amuleto.
 {E300} AVATAR
 Tudo bem.*
 Por favor, faça-a.
+
 {E5E4} EVENTO
 
 {E706} Laura
@@ -14115,10 +14983,12 @@ Por favor, faça-a.
 Há muito tempo, uma encomenda dessa*
 coleira de cachorro foi cancelada.*
 Isto vai ser útil.
+
 {E5E9} EVENTO
-Coloco a joia, ajusto para diminuir*
+Coloco a jóia, ajusto para diminuir*
 o tamanho e...*
 Veja só, está pronto!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -14129,6 +14999,7 @@ Veja só, está pronto!
 É para aquela menina.*
 Não precisa me pagar.*
 Rápido, entregue para ela!
+
 {E5E4} EVENTO
 
 
@@ -14141,6 +15012,7 @@ Rápido, entregue para ela!
 Droga! Eu estava tão próximo!*
 Eu queria muito... ter esse*
 poder em mãos...
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -14149,9 +15021,11 @@ poder em mãos...
 Não compreendo...*
 O portador de [Dominus] é destinado*
 à morte!
+
 {E5E9} EVENTO
 ... Por que você iria querer esse*
 tipo de poder?
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -14160,6 +15034,7 @@ tipo de poder?
 Porque sem [Dominus] eu nunca vou*
 conseguir destruir aquele lacre*
 dos infernos.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -14168,24 +15043,29 @@ dos infernos.
 ... Lacre?*
 Você me disse que aquele era o*
 receptáculo da alma de Drácula!
+
 {E5E4} EVENTO
 
 {E702} Barlowe
 
 {E30B} AVATAR
 Mas é claro!
+
 {E5E9} EVENTO
 A missão de Eclésia é realizar o*
 único desejo de toda humanidade:
+
 {E5E9} EVENTO
 A ressurreição do nosso Senhor,*
 o Conde Drácula!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 A humanidade não possui tal desejo.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -14194,16 +15074,19 @@ A humanidade não possui tal desejo.
 O poder de Drácula surge da escuridão*
 nos corações das pessoas. Em nossos*
 próprios corações.
+
 {E5E9} EVENTO
 Pergunte a si mesma:*
 Por que ele continua a reviver,*
 não importa quantas vezes for morto?
+
 {E5E9} EVENTO
 
 {E30C} AVATAR
 É porque os nossos corações anseiam*
 pela presença de Drácula!*
 Gaaaa ha ha ha ha ha!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -14212,6 +15095,7 @@ Gaaaa ha ha ha ha ha!
 ... Mais uma vítima de*
 [Dominus]...*
 Isso te levou à loucura!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -14222,9 +15106,11 @@ Isso te levou à loucura!
 Não, Shanoa...*
 Como você consegue continuar a*
 não enxergar isso?
+
 {E5E9} EVENTO
 ... Se você se recusa a entender,*
 então é você quem está louca!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -14235,13 +15121,16 @@ então é você quem está louca!
 O-ho ho... O que é isso?*
 Este poder...*
 Minhas forças estão voltando!
+
 {E5E9} EVENTO
 Sim, ó Senhor, eu compreendo...*
 Vou destruir o lacre dos*
 infernos com a sua bênção!
+
 {E5E9} EVENTO
 ... Drácula me honrar com sua tutela*
 foi uma providência divina!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -14251,6 +15140,7 @@ foi uma providência divina!
 {E301} AVATAR
 Não...*
 Eu sinto um novo poder.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -14260,7 +15150,8 @@ Eu sinto um novo poder.
 {E30C} AVATAR
 ... Mestre, eu darei a minha vida*
 para inutilizar o lacre.*
-Volte para nós, milorde Drácula!
+Volte para nós, Milorde Drácula!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -14269,6 +15160,7 @@ Volte para nós, milorde Drácula!
 
 {E301} AVATAR
 Não pode ser!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -14281,6 +15173,7 @@ Não pode ser!
 
 {E301} AVATAR
 Quem está aí?
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -14288,6 +15181,7 @@ Quem está aí?
 {E305} AVATAR
 ... Como esperado. Bem feito pra mim*
 por tentar pegá-la de surpresa.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -14296,6 +15190,7 @@ por tentar pegá-la de surpresa.
 
 {E300} AVATAR
 Albus!
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -14304,12 +15199,14 @@ Albus!
 Pelo visto, eu não consegui esconder*
 minha presença muito bem.*
 Que bom te ver, Shanoa.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 O que veio fazer aqui?
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -14317,6 +15214,7 @@ O que veio fazer aqui?
 {E305} AVATAR
 Este é o nosso lar, oras.*
 Onde mais eu poderia estar?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -14324,16 +15222,19 @@ Onde mais eu poderia estar?
 {E300} AVATAR
 Não foi isso o que eu quis dizer.*
 Você não estava em uma missão?
+
 {E5E4} EVENTO
 
 {E701} Albus
 
 {E305} AVATAR
-Sim, mas eu queria ter certeza de*
-que está tudo bem por aqui, antes*
+Sim, mas eu queria ter certeza que*
+está tudo bem por aqui, antes*
 de partir.
+
 {E5E9} EVENTO
 Alguma novidade?
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -14343,10 +15244,12 @@ Alguma novidade?
 {E302} AVATAR
 Bem... Barlowe me escolheu como a*
 portadora.
+
 {E5E9} EVENTO
 Estamos prestes a começar o ritual,*
 para que meu corpo se torne o*
 receptáculo de [Dominus].
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -14354,12 +15257,14 @@ receptáculo de [Dominus].
 {E306} AVATAR
 O que você disse!?*
 Você... [Dominus]?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Isso mesmo.
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -14367,12 +15272,14 @@ Isso mesmo.
 {E307} AVATAR
 Isso é um absurdo!*
 Barlowe mentiu para mim!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Mentiu?
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -14380,12 +15287,14 @@ Mentiu?
 {E307} AVATAR
 Era eu quem devia ser o portador.*
 Ele me prometeu!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E302} AVATAR
 Mas o mestre disse que você-
+
 {E5E4} EVENTO
 
 {E701} Albus
@@ -14393,6 +15302,7 @@ Mas o mestre disse que você-
 {E307} AVATAR
 O quê?*
 O que ele te disse?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -14400,21 +15310,25 @@ O que ele te disse?
 {E300} AVATAR
 ... Que você não serve...*
 para ser o portador.
+
 {E5E4} EVENTO
 
 {E701} Albus
 
 {E306} AVATAR
 ...!?
+
 {E5E9} EVENTO
 Não acredito que ele disse*
 tal coisa!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Mas Albus-
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -14424,6 +15338,7 @@ Mas Albus-
 {E302} AVATAR
 Perdão, já é hora.*
 Eu preciso ir.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -14433,6 +15348,7 @@ Eu preciso ir.
 {E307} AVATAR
 Espere, Shanoa!*
 Você não entendeu!
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -14443,6 +15359,7 @@ Você não entendeu!
 Você está errado.*
 Igual a você, eu também sou*
 membro de Eclésia.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -14453,14 +15370,17 @@ membro de Eclésia.
 Nosso único propósito é destruir*
 [Drácula], para que o povo possa ver o*
 pôr-do-sol sem temer a escuridão.
+
 {E5E9} EVENTO
 Estou certa, Albus?
+
 {E5E4} EVENTO
 
 {E701} Albus
 
 {E306} AVATAR
 Isso não-
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -14469,12 +15389,14 @@ Isso não-
 Por essa razão, eu me tornarei*
 Dominus, a lâmina que expulsará*
 todo o mal.
+
 {E5E4} EVENTO
 
 {E701} Albus
 
 {E306} AVATAR
 Shanoa...!
+
 {E5E4} EVENTO
 
 
@@ -14485,12 +15407,14 @@ Shanoa...!
 
 {E30A} AVATAR
 Shanoa, não esperava menos de você.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Obrigada, senhor.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -14498,16 +15422,19 @@ Obrigada, senhor.
 {E30A} AVATAR
 Agora, sua missão deve começar*
 imediatamente.
+
 {E5E9} EVENTO
 Recupere Dominus, o glifo supremo.*
 Meu pupilo o possui, e seu nome é*
 Albus.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Albus...
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -14515,12 +15442,14 @@ Albus...
 {E30B} AVATAR
 Por acaso esse nome desperta algo*
 em suas lembranças?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Não, senhor.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -14528,6 +15457,7 @@ Não, senhor.
 {E30B} AVATAR
 E os seus sentimentos, então?*
 No passado você o conhecia.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -14535,6 +15465,7 @@ No passado você o conhecia.
 {E300} AVATAR
 Eu não sei nada sobre ele agora,*
 senhor.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -14543,9 +15474,11 @@ senhor.
 Saiba que foi ele quem roubou as suas*
 lembranças. Ele lhe deve isso, e deve*
 também ao desejo da humanidade.
+
 {E5E9} EVENTO
 É a sua única esperança e você deve*
 recuperá-la.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -14553,12 +15486,14 @@ recuperá-la.
 {E300} AVATAR
 O ritual...*
 Aquele homem que eu vi...
+
 {E5E4} EVENTO
 
 {E702} Barlowe
 
 {E30A} AVATAR
 Ele era Albus.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -14566,6 +15501,7 @@ Ele era Albus.
 {E300} AVATAR
 ... Então tudo foi por causa dele.*
 Mas por quê?
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -14574,10 +15510,12 @@ Mas por quê?
 Ele cobiçava o seu poder e o seu*
 destino. Mas Dominus é um peso que*
 somente você há de carregar.
+
 {E5E9} EVENTO
 Se nós tivéssemos entrado em*
 consenso, talvez suas lembranças*
 ainda estivessem intactas.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
@@ -14592,22 +15530,27 @@ ainda estivessem intactas.
 {E30A} AVATAR
 ... Mas agora não é hora para desejos*
 ou arrependimentos.
+
 {E5E9} EVENTO
 Com Dominus, nós dois podemos salvar o*
 mundo de ninguém menos que o próprio*
 Drácula!
+
 {E5E9} EVENTO
 Recupere Dominus e vamos queimá-lo*
 novamente até virar cinzas.
+
 {E5E9} EVENTO
 Não há nada mais importante que*
 isso, para Eclésia.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E301} AVATAR
 Assim será feito, senhor.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -14616,41 +15559,50 @@ Assim será feito, senhor.
 Você é mesmo uma bênção*
 para todos nós.*
 E ainda por cima, temos uma vantagem:
+
 {E5E9} EVENTO
 [Dominus] não pode ser usado por*
 pessoas comuns. Nem mesmo por*
 Albus.
+
 {E5E9} EVENTO
 Dominus necessita de você.*
 Nenhum corpo além do seu pode*
 portar aquele glifo.
+
 {E5E9} EVENTO
 É por isso que eu a escolhi*
 para esta tarefa.
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Entendo, senhor.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
 
 {E30A} AVATAR
 Mas Albus é muito astuto e perspicaz.
+
 {E5E9} EVENTO
 Em questão de pouco tempo, ele talvez*
 encontre outra maneira.
+
 {E5E9} EVENTO
 Então encontre-o primeiro, antes que*
 suas pistas desapareçam!
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Eu o encontrarei, senhor.
+
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -14660,15 +15612,18 @@ Eu o encontrarei, senhor.
 {E30A} AVATAR
 Shanoa, traga-o de volta sem*
 machucá-lo, a menos que...
+
 {E5E9} EVENTO
 A menos que ele se mostre bastante*
 resoluto. Entendido?
+
 {E5E4} EVENTO
 
 {E700} Shanoa
 
 {E300} AVATAR
 Sim, senhor.
+
 {E5E4} EVENTO
 
 {E702} Barlowe
@@ -14708,7 +15663,7 @@ você controlar este poder.
 
 {E5E9} EVENTO
 O propósito do ritual é ter certeza*
-de que o seu corpo se ajustará com*
+que o seu corpo se ajustará com*
 [Dominus].
 
 {E5E4} EVENTO
@@ -15288,7 +16243,7 @@ para [Dominus]!
 {E702} Barlowe
 
 {E30B} AVATAR
-M-mas isso é ridículo!*
+M-Mas isso é ridículo!*
 Eu nunca ouvi tamanha-...
 
 {E5E4} EVENTO
@@ -15357,7 +16312,7 @@ minha jovem.
 {E5E9} EVENTO
 Entregar a própria vida, para que*
 Ele seja capaz de realizar o desejo*
-da humanidade, é um ato heroico.
+da humanidade, é um ato heróico.
 
 {E5E9} EVENTO
 Será que você não enxerga isso?
@@ -15898,7 +16853,7 @@ terminado num fracasso.
 
 {E300} AVATAR
 Albus!?*
-E-eu consigo ouvir a sua voz*
+E-Eu consigo ouvir a sua voz*
 dentro da minha mente.
 
 {E5E4} EVENTO
