@@ -1,12 +1,16 @@
 @echo off
 
 del ".\cooe.nds"
-copy ".\orig-expandida.nds" ".\cooe.nds"
 
-echo ==Inserindo script na rom...
+echo ==Aplicando patch de expansao de overlay na rom original...
+cd ".\Ferramentas\CVOE - Kit de expansao\"
+.\xdelta.exe -dfs ..\..\orig.nds .\cvoe.pat ..\..\cooe.nds
+cd ..\..\
+
+echo ==Inserindo script na rom expandida...
 ".\Ferramentas\CVOE - Kit de Traducao\insert_all.exe" ".\cooe.nds" ".\Scripts\script.txt"
 
-echo ==Inserindo graficos na rom...
+echo ==Inserindo graficos na rom expandida...
 rmdir rom_desmontada /q /s
 md rom_desmontada
 cd rom_desmontada
