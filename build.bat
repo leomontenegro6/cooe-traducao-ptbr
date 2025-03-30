@@ -3,9 +3,7 @@
 del ".\cooe.nds"
 
 echo ==Aplicando patch de expansao de overlay na rom original...
-cd ".\Ferramentas\CVOE - Kit de expansao\"
-.\xdelta.exe -dfs ..\..\orig.nds .\cvoe.pat ..\..\cooe.nds
-cd ..\..\
+".\Ferramentas\xdelta.exe" -dfs ".\orig.nds" ".\Ferramentas\CVOE - Kit de expansao\cvoe.pat" ".\cooe.nds"
 
 echo ==Inserindo script na rom expandida...
 ".\Ferramentas\CVOE - Kit de Traducao\insert_all.exe" ".\cooe.nds" ".\Scripts\script.txt"
