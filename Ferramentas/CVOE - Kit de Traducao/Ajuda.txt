@@ -1,0 +1,17 @@
+INSTRUÇÕES
+
+
+Para extrair o script:
+
+- Copie o overlay_0000.bin extraído da rom original com o dslazy
+para esta pasta com as ferramentas.
+- Arraste o overlay_0000.bin em cima do arquivo "Arraste overlay0000
+aqui para extrair scripts.bat"
+
+
+Para inserir os scripts na rom:
+
+- Copie a rom expandida para esta pasta com as ferramentas;
+- Renomeie a rom para cvoexpbr.nds
+- Arraste o script sobre o arquivo "Arraste script aqui para inserir
+na rom.bat".

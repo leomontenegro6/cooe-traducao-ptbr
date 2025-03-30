@@ -1,0 +1,5 @@
+*.nds
+*.sav
+rom_desmontada/
+test.bat
+copy_rom_to_anbernic.bat

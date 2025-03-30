@@ -1,0 +1,81 @@
+[img]http://xs233.xs.to/xs233/08456/castlevania_ooe_front_cover395.jpg[/img]
+
+[size=10pt][COLOR=Blue][B][u]SOBRE O JOGO[/u]:[/B][/COLOR]
+
+[b]NOME:[/b] [i]Castlevania – Ordem de Eclésia[/i] (Order of Ecclesia)
+[b]SISTEMA:[/b] Nintendo DS
+[b]VERSÃO:[/b] Americana
+[b]PRODUTORA:[/b] Konami
+[b]GÊNERO:[/b] Aventura / Plataforma / RPG de Ação
+
+¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸
+
+[COLOR=Blue][B][u]SOBRE A TRADUÇÃO[/u]:[/B][/COLOR]
+
+[b]Grupos:[/b] PO.B.R.E. e Trans-Center
+[b]INÍCIO:[/b] 06/11/2008
+[b]FINAL:[/b] 29/07/2009
+[b]SCRIPTS:[/b] Lanford
+[b]GRÁFICOS:[/b] NEODAN, Solid_One
+[b]ROMHACKING:[/b] Hyllian, Solid_One
+[b]BETA-TESTER:[/b] NEODAN, Solid_One, Lanford, Hyllian
+[b]REVISÃO:[/b] Solid_One, Hyllian
+
+¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸
+
+[B][COLOR=Blue][U]ANDAMENTO[/U]:[/COLOR]
+
+GRÁFICOS: [COLOR=DarkOrange]████████▓~95%[/COLOR]
+TEXTOS: [COLOR=DarkGreen]█████████▓100%[/COLOR]
+DIÁLOGOS: [COLOR=DarkGreen]█████████▓100%[/COLOR]
+ITENS: [COLOR=DarkGreen]█████████▓100%[/COLOR]
+MENUS: [COLOR=DarkGreen]█████████▓100%[/COLOR]
+LIVRARIA: [COLOR=DarkGreen]█████████▓100%[/COLOR]
+
+[U]ESTADO ATUAL[/U]: [COLOR=DarkOrange]████████▓~97%[/COLOR][/B]
+
+¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸
+
+[COLOR=Blue][B][U]SINOPSE[/U]:[/B][/COLOR]
+
+[size=10pt]Castlevania - Order of Ecclesia é o terceiro jogo da série lançado para Nintendo DS. É um dos poucos jogos da série protagonizado por uma mulher.
+
+Nele, os acontecimentos ocorrem após Castlevania - Symphony of the Night, por volta do século XIX. Como a família do Belmonts havia desaparecido nessa época, várias organizações foram criadas para perquisar medidas defensivas contra Drácula. Dentre essas organizações, a mais promissora delas era a Ordem de Eclésia.
+
+A grande maioria das organizações criadas foram desfeitas por não produzirem resultados satisfatórios. No entanto, Barlowe, o líder de Eclésia, aparentemente fez uma descoberta muito interessante que poderia acabar de vez com Drácula. Com base nessa descoberta, ele criou três glifos mágicos extremamente poderosos e os chamou de Dominus.
+
+Shanoa, a protagonista da história, é uma mulher dotada de poderes mágicos que transformam os vários desenhos em seu corpo em armas e magias para superar os obstáculos. Ela é a única capaz de receber Dominus.
+
+Durante a cerimônia para receber Dominus - o poder capaz de destruir Drácula - um imprevisto ocorre e, por acidente, Shanoa perde todas as suas lembranças e sentimentos. Orientada por seu mentor, Barlowe, ela deve ir atrás de Albus - o responsável pelo "acidente" - e cobrar-lhe explicações. Porém, durante sua jornada, ela descobrirá mistérios ainda maiores envolvendo Eclésia e o próprio Conde Drácula.[/size]
+
+¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸
+
+[COLOR=Blue][B][U]IMAGENS[/U]:[/B][/COLOR]
+
+[img]http://img194.imageshack.us/img194/9345/cooe1.gif[/img] [img]http://img188.imageshack.us/img188/6079/cooe2.gif[/img]
+[img]http://img248.imageshack.us/img248/6043/cooe3.gif[/img] [img]http://img23.imageshack.us/img23/671/cooe4.gif[/img]
+
+¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸
+
+[COLOR=Blue][B][U]AGRADECIMENTOS[/U]:[/B][/COLOR]
+
+-Hyllian, por toda a parte de romhacking referente aos textos e seus respectivos ponteiros;
+-Solid_One, pela parte gráfica e revisão geral, ingame e offgame;
+-NEODAN, pela parte gráfica, de forma similar a quando traduziu o Castlevania - Symphony of the Night;
+-aloprado, do ProjetoBR, pelo arquivo traduzido referente às configurações Wi-Fi;
+-a todo o pessoal do PO.B.R.E. e da Trans-Center pelo apoio.
+
+¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸
+
+[COLOR=Blue][B][U]CONSIDERAÇÕES FINAIS[/U]:[/B][/COLOR]
+
+Estou muito orgulhosa em dizer que esta é a minha primeira tradução 100% lançada! ^^;
+Quero agradecer ao Solid, Hyllian, Neodan e a toda "cena" romhacker pelo apoio!
+Espero que se divirtam com o jogo tanto quanto eu me diverti quando joguei pela primeira (segunda, terceira...) vez!
+
+¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸
+
+[COLOR=Blue][B][U]TRADUÇÃO[/U]:[/B][/COLOR]
+
+O link de download está em anexo abaixo.
+Mas somente usuários cadastrados no fórum podem ver e baixar o anexo.
