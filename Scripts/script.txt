@@ -12378,7 +12378,8 @@ em seus braços.
 selecione [Glifo] para equipar glifos*
 no braço esquerdo, [
 {F0}
-], e no direito, [
+], e no direito,*
+[
 {EF}
 ].
 {E5E4} EVENTO
