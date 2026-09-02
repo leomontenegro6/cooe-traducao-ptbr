@@ -5710,8 +5710,8 @@ golpe.
 
 ---------------------------------------------
 
-! Aumenta a SORTE dependendo da*
-quantidade de ouro que tiver.
+! Aumenta a quantidade de ouro soltada*
+por inimigos e objetos destrutíveis.
 
 ---------------------------------------------
 
@@ -8358,7 +8358,7 @@ Nossa! Obrigada! Você vai ficar*
 melhor agora, não é, Tom?
 {E5E9} EVENTO
 Olha! Isso é um tesouro que eu*
-encontrei há muito tempo atrás.*
+encontrei há muito tempo.*
 Pode ficar com ele, moça!
 {E5E4} EVENTO
 
@@ -8657,7 +8657,7 @@ Está tão escuro...
 {E30A} AVATAR
 Alegre-se, Shanoa.
 {E5E9} EVENTO
-Com o seu sacrifício,
+Com o seu sacrifício,*
 {E30C} AVATAR
 todos os desejos da humanidade se*
 tornarão realidade...
@@ -8698,7 +8698,7 @@ Ouvi falar que meus antepassados eram*
 pessoas que combateram o mal.
 {E5E9} EVENTO
 Talvez seja por isso que eu*
-escolhido o celibato.
+escolhi o celibato.
 {E5E4} EVENTO
 
 
@@ -9301,7 +9301,7 @@ Se essa é uma estátua de Cérbero,*
 então esta deve ser a entrada para o*
 Inferno.
 {E5E9} EVENTO
-Preciso descobrir como abrí-la...
+Preciso descobrir como abri-la...
 {E5E4} EVENTO
 
 
@@ -10033,7 +10033,7 @@ Inexorável e infalível.*
 {E708} Aeon
 
 {E312} AVATAR
-F-Fui salvo!
+F-fui salvo!
 {E5E9} EVENTO
 Acho que a eterna boaventura do*
 paraíso vai ter de esperar,*
@@ -11415,7 +11415,8 @@ Vamos preparar um [Peixe-Assassino].*
 Será que é difícil?
 {E5E9} EVENTO
 É só me trazer o ingrediente*
-e eu tento fazer pra você!Vai lá!
+e eu tento fazer pra você!*
+Vai lá!
 {E5E4} EVENTO
 
 
@@ -12562,7 +12563,7 @@ Então traga para mim, por favor!
 
 {E31A} AVATAR
 Donzela tão amável...*
-É à tí que devo este imenso prazer?
+É a ti que devo este imenso prazer?
 {E5E9} EVENTO
 Diga-me o teu desejo, donzela.*
 Procuras pela vida eterna?*
@@ -13277,7 +13278,7 @@ Numa péssima hora, presumo.
 {E705} Abram
 
 {E30F} AVATAR
-Pessima hora? Não.*
+Péssima hora? Não.*
 Mas INCONVENIENTE!
 {E5E9} EVENTO
 Eu lhe prepararia um agradecimento*
@@ -13380,7 +13381,7 @@ Hunf... O que ele usou?
 {E306} AVATAR
 Ele usou [Drácula], Shanoa.
 {E5E9} EVENTO
-[Dominus] é feito de seus restos.*
+[Dominus] é feito de seus restos mortais.*
 Aquele é o próprio poder DELE.*
 Nada menos.
 {E5E4} EVENTO
@@ -13482,7 +13483,7 @@ Shanoa, eu-...
 
 {E306} AVATAR
 Urgh... O quê!?*
-N-Não pode ser!
+N-não pode ser!
 {E5E4} EVENTO
 
 {E201} EVENTO
@@ -16067,7 +16068,7 @@ emoções.
 {E5E9} EVENTO
 Digamos que eu sabia o que era*
 importante para mim, sabia o que*
-devia que ser feito.
+tinha que ser feito.
 
 {E5E9} EVENTO
 Quando o ritual já havia começado,*
