@@ -1,1 +1,3 @@
+- Passar gráficos das localidades Wygol Village, Ruvas Forest e Oblivion Ridge, pro Neko editar pra versão com termos em latim
+- Alterar "Pico Abandonado" para "Monte Abandonado" (ou Monte Oblivio, na versão com termos em latim)
 - Pedir pro denim dar uma mão pra editar os créditos.

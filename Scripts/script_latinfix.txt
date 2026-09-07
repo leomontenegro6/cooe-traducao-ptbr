@@ -962,7 +962,7 @@ Neves
 
 ---------------------------------------------
 
-! Macir
+! Pulsus
 
 ---------------------------------------------
 
@@ -1190,7 +1190,7 @@ Neves
 
 ---------------------------------------------
 
-! Falcis
+! Falx
 
 ---------------------------------------------
 
@@ -1266,7 +1266,7 @@ Neves
 
 ---------------------------------------------
 
-! Redire
+! Reditus
 
 ---------------------------------------------
 
@@ -1286,7 +1286,7 @@ Neves
 
 ---------------------------------------------
 
-! Secare
+! Sectio
 
 ---------------------------------------------
 
@@ -1298,7 +1298,7 @@ Neves
 
 ---------------------------------------------
 
-! Vis Fio
+! Fortis Fio
 
 ---------------------------------------------
 
@@ -1390,7 +1390,7 @@ Neves
 
 ---------------------------------------------
 
-! Lapiste
+! Lapis
 
 ---------------------------------------------
 
@@ -1430,7 +1430,7 @@ Neves
 
 ---------------------------------------------
 
-! Nitesco
+! Nitor
 
 ---------------------------------------------
 
@@ -1677,7 +1677,7 @@ Neves
 
 ---------------------------------------------
 
-! Luminatio
+! Lumen
 
 ---------------------------------------------
 
@@ -1693,7 +1693,7 @@ Neves
 
 ---------------------------------------------
 
-! Confodere
+! Confossio
 
 ---------------------------------------------
 
@@ -1733,7 +1733,7 @@ Neves
 
 ---------------------------------------------
 
-! Vol Ascia
+! Valens Ascia
 
 ---------------------------------------------
 
@@ -1781,15 +1781,15 @@ Neves
 
 ---------------------------------------------
 
-! Acerbatus
+! Acerbitas
 
 ---------------------------------------------
 
-! Vol Arcus
+! Valens Arcus
 
 ---------------------------------------------
 
-! Fides Fio
+! Fidelis Fio
 
 ---------------------------------------------
 
@@ -1817,7 +1817,7 @@ Neves
 
 ---------------------------------------------
 
-! Vol Umbra
+! Valens Umbra
 
 ---------------------------------------------
 
@@ -1825,7 +1825,7 @@ Neves
 
 ---------------------------------------------
 
-! Vol Ignis
+! Valens Ignis
 
 ---------------------------------------------
 
@@ -1873,7 +1873,7 @@ Neves
 
 ---------------------------------------------
 
-! Vol Hasta
+! Valens Hasta
 
 ---------------------------------------------
 
@@ -1893,7 +1893,7 @@ Neves
 
 ---------------------------------------------
 
-! Vol Macir
+! Valens Pulsus
 
 ---------------------------------------------
 
@@ -1925,7 +1925,7 @@ Neves
 
 ---------------------------------------------
 
-! Vol Secare
+! Valens Sectio
 
 ---------------------------------------------
 
@@ -1941,7 +1941,7 @@ Neves
 
 ---------------------------------------------
 
-! Vol Grando
+! Valens Grando
 
 ---------------------------------------------
 
@@ -2009,7 +2009,7 @@ Neves
 
 ---------------------------------------------
 
-! Fortis Fio
+! Durus Fio
 
 ---------------------------------------------
 
@@ -2077,11 +2077,11 @@ Neves
 
 ---------------------------------------------
 
-! Vol Falcis
+! Valens Falx
 
 ---------------------------------------------
 
-! Vol Scutum
+! Valens Scutum
 
 ---------------------------------------------
 
@@ -2137,15 +2137,15 @@ Neves
 
 ---------------------------------------------
 
-! Vol Culter
+! Valens Culter
 
 ---------------------------------------------
 
-! Vol Fulgur
+! Valens Fulgur
 
 ---------------------------------------------
 
-! Arma Custos
+! Arma Custodis
 
 ---------------------------------------------
 
@@ -2181,7 +2181,7 @@ Neves
 
 ---------------------------------------------
 
-! Melio Arcus
+! Melior Arcus
 
 ---------------------------------------------
 
@@ -2193,7 +2193,7 @@ Neves
 
 ---------------------------------------------
 
-! Felicem Fio
+! Felix Fio
 
 ---------------------------------------------
 
@@ -2201,7 +2201,7 @@ Neves
 
 ---------------------------------------------
 
-! Melio Hasta
+! Melior Hasta
 
 ---------------------------------------------
 
@@ -2285,7 +2285,7 @@ Neves
 
 ---------------------------------------------
 
-! Melio Macir
+! Melior Pulsus
 
 ---------------------------------------------
 
@@ -2298,7 +2298,7 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Melio Ascia
+! Melior Ascia
 
 ---------------------------------------------
 
@@ -2426,7 +2426,7 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Melio Falcis
+! Melior Falx
 
 ---------------------------------------------
 
@@ -2446,19 +2446,19 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Floresta Ruvas
+! Floresta Lupus
 
 ---------------------------------------------
 
-! Melio Secare
+! Melior Sectio
 
 ---------------------------------------------
 
-! Melio Culter
+! Melior Culter
 
 ---------------------------------------------
 
-! Melio Scutum
+! Melius Scutum
 
 ---------------------------------------------
 
@@ -2598,7 +2598,7 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Floresta Ruvas
+! Floresta Lupus
 
 ---------------------------------------------
 
@@ -2663,7 +2663,7 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Arma Machina
+! Arma Machinae
 
 ---------------------------------------------
 
@@ -2691,7 +2691,7 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Vila de Wygol
+! Vila de Vigor
 
 ---------------------------------------------
 
@@ -2703,7 +2703,7 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Vol Luminatio
+! Valens Lumen
 
 ---------------------------------------------
 
@@ -2715,15 +2715,15 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Vila de Wygol
+! Vila de Vigor
 
 ---------------------------------------------
 
-! Inire Pecunia
+! Ineo Pecuniam
 
 ---------------------------------------------
 
-! Vol Confodere
+! Valens Confossio
 
 ---------------------------------------------
 
@@ -2859,7 +2859,7 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Dextro Custos
+! Dexter Custos
 
 ---------------------------------------------
 
@@ -2907,7 +2907,7 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Fidelis Alate
+! Fides Alati
 
 ---------------------------------------------
 
@@ -3002,7 +3002,7 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Monte Abandonado
+! Monte Oblivio
 
 ---------------------------------------------
 
@@ -3010,23 +3010,23 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Fidelis Caries
+! Fides Cariei
 
 ---------------------------------------------
 
-! Fidelis Polkir
+! Fides Pucel
 
 ---------------------------------------------
 
-! Fidelis Aranea
+! Fides Araneae
 
 ---------------------------------------------
 
-! Fidelis Mortus
+! Fides Mortui
 
 ---------------------------------------------
 
-! Monte Abandonado
+! Monte Oblivio
 
 ---------------------------------------------
 
@@ -3106,7 +3106,7 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Fidelis Noctua
+! Fides Noctuae
 
 ---------------------------------------------
 
@@ -3154,7 +3154,7 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Fidelis Medusa
+! Fides Medusa
 
 ---------------------------------------------
 
@@ -3182,7 +3182,7 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Melio Confodere
+! Melior Confossio
 
 ---------------------------------------------
 
@@ -3218,11 +3218,11 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Sinestro Custos
+! Sinister Custos
 
 ---------------------------------------------
 
-! Arma Chiroptera
+! Arma Chiropteri
 
 ---------------------------------------------
 
@@ -7159,7 +7159,7 @@ preparando para o jogo sem fio.
 ---------------------------------------------
 
 ! Por favor desenhe a capela do*
-[Monte Abandonado] no [Livro de Arte].
+[Monte Oblivio] no [Livro de Arte].
 
 ---------------------------------------------
 
@@ -8635,7 +8635,7 @@ nos momentos mais difíceis.
 ---------------------------------------------
 
 ! Guiado pelos rumores de monstros nas*
-proximidades, ele viajou à Wygol para*
+proximidades, ele viajou à Vila de Vigor para*
 pesquisar a fundo. Ele é um homem curioso*
 e não hesita em passar informações.
 
@@ -8934,7 +8934,7 @@ aumentam seu nível.
 pacata, e logo apareceram moradores.*
 Agora o perigo ronda nas redondezas*
 despovoadas, ameaçando a tranquili-*
-dade de Wygol.
+dade da Vila de Vigor.
 
 ---------------------------------------------
 
@@ -9083,7 +9083,7 @@ Aqui, pegue isto.
 ---------------------------------------------
 
 ! Uma antiga e sinuosa estrada que sai*
-da Vila de Wygol e passa por esta*
+da Vila de Vigor e passa por esta*
 floresta. Lendas dizem que quem se*
 perde neste caminho abandonado vai*
 parar no outro mundo.
@@ -9371,7 +9371,7 @@ coisas sobre fotografia?
 
 {E319} AVATAR
 Você conseguiu encontrar a igreja*
-no [Monte Abandonado]?*
+no [Monte Oblivio]?*
 Como está saindo o desenho?
 {E5E4} EVENTO
 
@@ -10062,7 +10062,7 @@ Estou a salvo, graças a você.*
 Obrigado!
 {E5E9} EVENTO
 Eu sou Jacob. Tenho uma pequena*
-loja na Vila de Wygol.
+loja na Vila de Vigor.
 {E5E9} EVENTO
 Falando nisso, tenho que voltar para*
 lá agora mesmo!
@@ -13558,7 +13558,7 @@ acabassem minhas lágrimas.
 Me diga, não poderia desenhar a*
 Igreja onde eu perdi o vovô?
 {E5E9} EVENTO
-Ela fica no [Monte Abandonado],*
+Ela fica no [Monte Oblivio],*
 e lá existe uma pequena cruz.
 {E5E9} EVENTO
 É triste, mas quero ter certeza*
@@ -13572,7 +13572,7 @@ tanto de você quanto do vovô.
 
 {E300} AVATAR
 A igreja que fica no*
-[Monte Abandonado]...
+[Monte Oblivio]...
 {E5E4} EVENTO
 
 
@@ -13657,7 +13657,7 @@ Onde fica?
 
 {E30D} AVATAR
 Você consegue chegar até lá através*
-da [Floresta Ruvas], a sudeste daqui.*
+da [Floresta Lupus], a sudeste daqui.*
 Por favor, salve-os!
 {E5E4} EVENTO
 
