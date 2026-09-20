@@ -3210,11 +3210,11 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Canal Kalidus
+! Canal Calidus
 
 ---------------------------------------------
 
-! Montanhas Tymeo
+! Montanhas Timeo
 
 ---------------------------------------------
 
@@ -3226,11 +3226,11 @@ continuar um jogo existente.
 
 ---------------------------------------------
 
-! Canal Kalidus
+! Canal Calidus
 
 ---------------------------------------------
 
-! Montanhas Tymeo
+! Montanhas Timeo
 
 ---------------------------------------------
 
@@ -9791,7 +9791,7 @@ glifo.
 
 ---------------------------------------------
 
-! A área de Tymeo é a maior da região,*
+! A área de Timeo é a maior da região,*
 supostamente um covil para terríveis*
 criaturas. Os viajantes ignorantes*
 que atravessam estes picos dizem que*
